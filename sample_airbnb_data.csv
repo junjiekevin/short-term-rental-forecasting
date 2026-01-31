@@ -1,0 +1,1001 @@
+Property name,No. BRs,No. Beds,No. Baths,No. Guests allowed,Nightly Rate,Cleaning Fee,Rating,No. Reviews,Superhost Status (1 / 0),Amenities,Pets (1 / 0),Property Type,Location,Location Rating,Price_per_Guest,Link,Season
+Sample Property 5426,4,4,4.0,10,415.32,207.66,4.19,99,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",5.0,41.53,https://www.airbnb.com/rooms/sample_62956,Peak
+Sample Property 3558,2,2,2.0,5,225.5,124.38,3.71,187,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.4,45.1,https://www.airbnb.com/rooms/sample_66804,Peak
+Sample Property 9792,1,3,1.0,4,174.13,89.7,4.95,241,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.2,43.53,https://www.airbnb.com/rooms/sample_23484,Peak
+Sample Property 8555,4,4,3.0,10,171.14,205.91,3.97,53,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",5.0,17.11,https://www.airbnb.com/rooms/sample_72410,Off-Peak
+Sample Property 8629,4,5,3.0,9,176.86,221.89,3.79,189,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.3,19.65,https://www.airbnb.com/rooms/sample_9269,Off-Peak
+Sample Property 6892,2,2,1.0,4,241.64,138.88,4.89,40,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.3,60.41,https://www.airbnb.com/rooms/sample_89136,Peak
+Sample Property 4840,5,7,4.0,11,331.74,249.24,4.58,254,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.7,30.16,https://www.airbnb.com/rooms/sample_87898,Shoulder
+Sample Property 2757,2,2,2.0,6,261.84,110.12,3.71,230,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Southwest Bend, Bend, OR",4.2,43.64,https://www.airbnb.com/rooms/sample_62624,Peak
+Sample Property 4627,3,5,2.0,7,297.79,166.84,4.12,127,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.3,42.54,https://www.airbnb.com/rooms/sample_23777,Peak
+Sample Property 4748,1,1,1.0,3,126.9,93.46,4.54,233,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.3,42.3,https://www.airbnb.com/rooms/sample_95840,Peak
+Sample Property 2636,1,1,1.0,2,111.73,100.05,3.93,80,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.4,55.87,https://www.airbnb.com/rooms/sample_855,Off-Peak
+Sample Property 6535,5,5,5.0,12,200.02,264.8,4.39,202,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.6,16.67,https://www.airbnb.com/rooms/sample_65734,Off-Peak
+Sample Property 7546,3,5,2.0,6,266.63,178.74,4.57,146,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.9,44.44,https://www.airbnb.com/rooms/sample_83880,Shoulder
+Sample Property 9815,2,2,2.0,4,146.27,117.69,4.33,59,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.6,36.57,https://www.airbnb.com/rooms/sample_29856,Off-Peak
+Sample Property 7295,3,5,3.0,6,265.44,172.97,4.11,160,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.2,44.24,https://www.airbnb.com/rooms/sample_53352,Shoulder
+Sample Property 1956,4,5,4.0,9,312.14,190.65,3.84,160,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.2,34.68,https://www.airbnb.com/rooms/sample_58872,Shoulder
+Sample Property 7893,3,3,2.0,6,205.1,162.28,4.38,229,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.4,34.18,https://www.airbnb.com/rooms/sample_48405,Shoulder
+Sample Property 8679,1,3,1.0,2,235.68,89.69,3.77,219,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.9,117.84,https://www.airbnb.com/rooms/sample_32636,Peak
+Sample Property 1980,1,1,1.0,2,80.95,97.77,3.79,160,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.6,40.48,https://www.airbnb.com/rooms/sample_23094,Off-Peak
+Sample Property 1784,2,4,1.0,5,193.65,130.51,4.77,298,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.3,38.73,https://www.airbnb.com/rooms/sample_49690,Shoulder
+Sample Property 7002,3,4,3.0,6,158.88,168.72,4.01,91,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.5,26.48,https://www.airbnb.com/rooms/sample_49727,Off-Peak
+Sample Property 4124,5,6,4.0,11,452.14,246.65,3.91,107,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.2,41.1,https://www.airbnb.com/rooms/sample_32094,Peak
+Sample Property 1830,3,5,2.0,6,175.96,163.71,4.15,57,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",5.0,29.33,https://www.airbnb.com/rooms/sample_51991,Off-Peak
+Sample Property 6237,1,1,1.0,3,149.02,86.57,4.57,236,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.7,49.67,https://www.airbnb.com/rooms/sample_9663,Peak
+Sample Property 3744,5,6,5.0,12,275.34,242.92,4.01,219,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.2,22.94,https://www.airbnb.com/rooms/sample_43920,Off-Peak
+Sample Property 6881,2,3,1.0,4,272.26,125.02,4.42,99,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.6,68.06,https://www.airbnb.com/rooms/sample_9824,Peak
+Sample Property 1851,1,1,1.0,4,186.88,99.26,4.36,177,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.8,46.72,https://www.airbnb.com/rooms/sample_93611,Peak
+Sample Property 9967,5,7,5.0,10,380.62,243.77,4.08,89,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.5,38.06,https://www.airbnb.com/rooms/sample_82746,Shoulder
+Sample Property 6988,5,6,5.0,12,487.41,258.77,4.63,191,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.4,40.62,https://www.airbnb.com/rooms/sample_65511,Peak
+Sample Property 9787,5,5,5.0,10,487.46,236.58,4.74,186,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",5.0,48.75,https://www.airbnb.com/rooms/sample_24467,Peak
+Sample Property 8266,4,4,4.0,9,297.93,209.86,4.4,52,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Southwest Bend, Bend, OR",4.9,33.1,https://www.airbnb.com/rooms/sample_21690,Shoulder
+Sample Property 8056,2,2,2.0,6,212.78,134.96,3.65,6,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.4,35.46,https://www.airbnb.com/rooms/sample_88859,Shoulder
+Sample Property 9702,2,3,2.0,4,153.09,125.23,4.86,131,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.8,38.27,https://www.airbnb.com/rooms/sample_26791,Off-Peak
+Sample Property 4709,3,4,2.0,8,148.95,169.95,3.58,0,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Southwest Bend, Bend, OR",4.4,18.62,https://www.airbnb.com/rooms/sample_28017,Off-Peak
+Sample Property 6348,1,1,1.0,2,94.48,90.13,3.88,146,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",4.2,47.24,https://www.airbnb.com/rooms/sample_52639,Off-Peak
+Sample Property 7819,1,1,1.0,3,178.8,81.92,4.2,185,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.4,59.6,https://www.airbnb.com/rooms/sample_4836,Shoulder
+Sample Property 1924,3,4,3.0,6,374.55,155.07,3.7,34,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.7,62.43,https://www.airbnb.com/rooms/sample_50991,Peak
+Sample Property 9415,1,2,1.0,3,158.59,85.31,4.98,266,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",5.0,52.86,https://www.airbnb.com/rooms/sample_72475,Shoulder
+Sample Property 6989,1,1,1.0,3,139.37,85.16,4.87,22,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Old Bend, Bend, OR",4.8,46.46,https://www.airbnb.com/rooms/sample_13457,Shoulder
+Sample Property 5544,5,6,5.0,11,357.56,243.29,4.51,287,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Old Bend, Bend, OR",4.5,32.51,https://www.airbnb.com/rooms/sample_61878,Shoulder
+Sample Property 2252,3,5,2.0,6,298.73,195.39,4.43,65,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",5.0,49.79,https://www.airbnb.com/rooms/sample_55394,Peak
+Sample Property 8648,2,3,2.0,6,202.2,147.19,4.68,29,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.9,33.7,https://www.airbnb.com/rooms/sample_39812,Shoulder
+Sample Property 5300,2,2,1.0,4,229.88,134.03,3.81,42,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.5,57.47,https://www.airbnb.com/rooms/sample_80720,Peak
+Sample Property 7777,3,4,2.0,6,241.86,170.15,3.84,276,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.2,40.31,https://www.airbnb.com/rooms/sample_79253,Shoulder
+Sample Property 8240,1,1,1.0,3,82.51,81.81,3.64,46,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.9,27.5,https://www.airbnb.com/rooms/sample_52797,Off-Peak
+Sample Property 1638,1,2,1.0,2,124.39,84.24,4.89,13,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Old Bend, Bend, OR",4.7,62.2,https://www.airbnb.com/rooms/sample_4622,Shoulder
+Sample Property 9172,3,5,3.0,8,316.58,181.2,4.8,293,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.7,39.57,https://www.airbnb.com/rooms/sample_10268,Shoulder
+Sample Property 7288,2,4,2.0,4,114.54,126.49,4.01,24,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.5,28.64,https://www.airbnb.com/rooms/sample_26735,Off-Peak
+Sample Property 3739,4,6,3.0,9,349.85,220.67,4.47,225,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Southwest Bend, Bend, OR",4.3,38.87,https://www.airbnb.com/rooms/sample_28025,Peak
+Sample Property 7986,1,1,1.0,2,76.99,85.13,3.63,94,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.5,38.49,https://www.airbnb.com/rooms/sample_4325,Off-Peak
+Sample Property 3551,4,6,3.0,9,297.25,212.74,4.58,61,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.6,33.03,https://www.airbnb.com/rooms/sample_46515,Shoulder
+Sample Property 7283,5,5,4.0,11,365.31,241.85,3.67,89,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.5,33.21,https://www.airbnb.com/rooms/sample_32255,Shoulder
+Sample Property 7038,4,4,4.0,10,192.79,206.15,4.32,12,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.1,19.28,https://www.airbnb.com/rooms/sample_19217,Off-Peak
+Sample Property 1235,1,3,1.0,3,146.54,87.97,4.11,136,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.9,48.85,https://www.airbnb.com/rooms/sample_36160,Shoulder
+Sample Property 5820,4,4,3.0,10,380.25,205.67,3.78,77,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.9,38.02,https://www.airbnb.com/rooms/sample_84057,Peak
+Sample Property 3190,2,4,1.0,5,251.03,121.56,4.37,144,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",4.5,50.21,https://www.airbnb.com/rooms/sample_36456,Peak
+Sample Property 6567,3,5,3.0,7,225.43,181.44,3.75,110,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.8,32.2,https://www.airbnb.com/rooms/sample_10790,Shoulder
+Sample Property 5612,1,1,1.0,2,127.96,85.75,4.82,117,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.5,63.98,https://www.airbnb.com/rooms/sample_64436,Shoulder
+Sample Property 7898,5,5,5.0,12,517.39,263.56,4.35,281,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.2,43.12,https://www.airbnb.com/rooms/sample_14154,Peak
+Sample Property 1827,2,3,2.0,5,124.62,125.6,4.39,132,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.8,24.92,https://www.airbnb.com/rooms/sample_65311,Off-Peak
+Sample Property 4476,2,2,1.0,6,95.21,128.74,3.75,181,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",4.6,15.87,https://www.airbnb.com/rooms/sample_68245,Off-Peak
+Sample Property 8973,1,1,1.0,3,197.04,66.79,4.02,209,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.6,65.68,https://www.airbnb.com/rooms/sample_41915,Peak
+Sample Property 5757,4,6,4.0,9,335.78,203.02,3.83,48,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.1,37.31,https://www.airbnb.com/rooms/sample_52854,Shoulder
+Sample Property 3482,4,6,4.0,8,402.58,193.88,3.81,210,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.6,50.32,https://www.airbnb.com/rooms/sample_42461,Peak
+Sample Property 6232,3,4,3.0,7,303.6,189.5,4.1,165,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.3,43.37,https://www.airbnb.com/rooms/sample_12343,Shoulder
+Sample Property 8643,3,4,2.0,8,147.76,169.3,4.76,7,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.2,18.47,https://www.airbnb.com/rooms/sample_76219,Off-Peak
+Sample Property 8970,5,6,5.0,12,377.86,259.78,3.86,77,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",5.0,31.49,https://www.airbnb.com/rooms/sample_54772,Shoulder
+Sample Property 9705,5,6,5.0,11,341.6,267.65,4.87,196,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.4,31.05,https://www.airbnb.com/rooms/sample_76919,Shoulder
+Sample Property 6619,4,4,4.0,9,384.93,204.55,4.96,279,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.9,42.77,https://www.airbnb.com/rooms/sample_86144,Peak
+Sample Property 8368,1,2,1.0,2,223.1,96.72,3.71,234,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.9,111.55,https://www.airbnb.com/rooms/sample_74533,Peak
+Sample Property 8141,3,4,2.0,6,318.17,152.97,4.74,86,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.3,53.03,https://www.airbnb.com/rooms/sample_81183,Peak
+Sample Property 3681,3,4,2.0,6,273.18,157.2,4.13,129,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.1,45.53,https://www.airbnb.com/rooms/sample_11556,Peak
+Sample Property 2333,3,4,3.0,6,281.83,161.16,4.21,110,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.5,46.97,https://www.airbnb.com/rooms/sample_59130,Shoulder
+Sample Property 8617,4,6,3.0,10,299.99,199.51,3.66,200,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.7,30.0,https://www.airbnb.com/rooms/sample_83560,Shoulder
+Sample Property 4549,2,2,2.0,6,142.65,139.73,3.51,11,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.9,23.78,https://www.airbnb.com/rooms/sample_35773,Off-Peak
+Sample Property 2750,1,2,1.0,4,148.83,102.86,4.59,197,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.6,37.21,https://www.airbnb.com/rooms/sample_90601,Shoulder
+Sample Property 1390,5,6,5.0,11,505.43,237.23,3.55,116,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.4,45.95,https://www.airbnb.com/rooms/sample_99805,Peak
+Sample Property 8693,2,4,1.0,6,158.82,133.4,4.39,107,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.7,26.47,https://www.airbnb.com/rooms/sample_2984,Off-Peak
+Sample Property 8564,2,4,2.0,6,300.85,134.85,4.44,15,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.0,50.14,https://www.airbnb.com/rooms/sample_52394,Peak
+Sample Property 8206,2,3,2.0,6,272.82,128.28,3.51,28,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.5,45.47,https://www.airbnb.com/rooms/sample_33040,Peak
+Sample Property 4760,4,6,4.0,9,425.74,189.15,3.67,141,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Seventh Mountain, Bend, OR",4.7,47.3,https://www.airbnb.com/rooms/sample_40601,Peak
+Sample Property 2828,1,1,1.0,4,166.01,80.02,4.68,197,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.9,41.5,https://www.airbnb.com/rooms/sample_80098,Shoulder
+Sample Property 4564,1,3,1.0,4,203.34,106.21,3.68,106,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.2,50.84,https://www.airbnb.com/rooms/sample_55555,Peak
+Sample Property 8657,5,5,4.0,12,520.03,254.7,4.27,61,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.2,43.34,https://www.airbnb.com/rooms/sample_7288,Peak
+Sample Property 8490,5,7,5.0,10,247.34,261.26,3.91,28,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.9,24.73,https://www.airbnb.com/rooms/sample_29193,Off-Peak
+Sample Property 9228,1,1,1.0,4,135.91,83.69,3.83,283,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.5,33.98,https://www.airbnb.com/rooms/sample_2397,Shoulder
+Sample Property 8314,3,4,3.0,7,351.68,166.41,4.8,91,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.3,50.24,https://www.airbnb.com/rooms/sample_51757,Peak
+Sample Property 1556,1,1,1.0,4,93.9,88.41,4.81,30,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.2,23.48,https://www.airbnb.com/rooms/sample_42535,Off-Peak
+Sample Property 8009,2,3,1.0,4,185.55,111.07,4.45,162,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.4,46.39,https://www.airbnb.com/rooms/sample_13282,Shoulder
+Sample Property 2265,4,6,3.0,8,198.51,214.09,4.92,191,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.6,24.81,https://www.airbnb.com/rooms/sample_20954,Off-Peak
+Sample Property 6043,3,4,2.0,7,350.41,162.6,4.64,6,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.3,50.06,https://www.airbnb.com/rooms/sample_96215,Peak
+Sample Property 2098,2,3,1.0,5,255.97,131.08,3.83,129,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.3,51.19,https://www.airbnb.com/rooms/sample_44414,Peak
+Sample Property 1933,4,4,4.0,10,278.06,204.33,3.84,162,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.6,27.81,https://www.airbnb.com/rooms/sample_23020,Shoulder
+Sample Property 4633,3,4,3.0,6,336.83,158.13,4.64,180,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.2,56.14,https://www.airbnb.com/rooms/sample_527,Peak
+Sample Property 6797,1,2,1.0,4,76.47,108.01,3.84,213,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Old Bend, Bend, OR",4.8,19.12,https://www.airbnb.com/rooms/sample_29760,Off-Peak
+Sample Property 9357,5,5,4.0,10,225.95,225.76,3.94,216,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.0,22.59,https://www.airbnb.com/rooms/sample_32982,Off-Peak
+Sample Property 3720,3,3,3.0,6,303.04,169.77,4.34,241,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",4.1,50.51,https://www.airbnb.com/rooms/sample_45005,Shoulder
+Sample Property 2709,1,1,1.0,3,138.91,79.37,4.54,142,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.1,46.3,https://www.airbnb.com/rooms/sample_71627,Shoulder
+Sample Property 1552,5,7,5.0,11,279.52,265.24,4.56,263,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.3,25.41,https://www.airbnb.com/rooms/sample_24827,Off-Peak
+Sample Property 5109,3,4,2.0,7,240.53,191.83,3.62,11,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.9,34.36,https://www.airbnb.com/rooms/sample_26746,Shoulder
+Sample Property 8979,3,5,2.0,6,221.24,169.18,4.33,210,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.5,36.87,https://www.airbnb.com/rooms/sample_60316,Shoulder
+Sample Property 1158,2,4,2.0,4,151.82,128.89,4.12,23,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.4,37.95,https://www.airbnb.com/rooms/sample_39444,Off-Peak
+Sample Property 2394,4,5,4.0,10,207.89,227.81,3.93,124,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Old Bend, Bend, OR",4.6,20.79,https://www.airbnb.com/rooms/sample_84879,Off-Peak
+Sample Property 5648,1,3,1.0,3,96.48,87.09,3.87,110,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.7,32.16,https://www.airbnb.com/rooms/sample_69351,Off-Peak
+Sample Property 8062,1,3,1.0,2,124.34,105.38,4.18,9,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.4,62.17,https://www.airbnb.com/rooms/sample_76620,Off-Peak
+Sample Property 4192,1,1,1.0,4,165.16,76.95,4.41,174,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.8,41.29,https://www.airbnb.com/rooms/sample_26156,Peak
+Sample Property 1968,4,6,4.0,9,308.46,204.49,4.3,19,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.5,34.27,https://www.airbnb.com/rooms/sample_28405,Shoulder
+Sample Property 3289,3,3,3.0,6,152.38,186.16,4.95,298,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",5.0,25.4,https://www.airbnb.com/rooms/sample_15399,Off-Peak
+Sample Property 5470,3,4,3.0,7,236.23,176.44,3.74,128,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",5.0,33.75,https://www.airbnb.com/rooms/sample_48321,Shoulder
+Sample Property 1986,2,4,1.0,5,134.26,133.08,4.9,288,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.7,26.85,https://www.airbnb.com/rooms/sample_26985,Off-Peak
+Sample Property 6208,2,3,1.0,5,131.05,126.02,4.81,72,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.1,26.21,https://www.airbnb.com/rooms/sample_29166,Off-Peak
+Sample Property 2388,4,5,4.0,9,202.72,217.53,4.73,88,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.6,22.52,https://www.airbnb.com/rooms/sample_9109,Off-Peak
+Sample Property 8010,3,3,3.0,6,333.94,169.65,3.75,264,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.5,55.66,https://www.airbnb.com/rooms/sample_31349,Peak
+Sample Property 9234,5,6,5.0,10,497.0,233.66,4.65,20,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.9,49.7,https://www.airbnb.com/rooms/sample_56089,Peak
+Sample Property 7012,4,6,4.0,10,392.05,209.05,4.43,51,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.5,39.2,https://www.airbnb.com/rooms/sample_54692,Peak
+Sample Property 8052,2,3,2.0,4,127.31,128.41,3.78,240,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Larkspur, Bend, OR",4.4,31.83,https://www.airbnb.com/rooms/sample_12150,Off-Peak
+Sample Property 7869,1,1,1.0,4,204.12,93.84,4.39,25,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.4,51.03,https://www.airbnb.com/rooms/sample_31402,Peak
+Sample Property 4273,1,2,1.0,2,103.85,94.58,4.71,163,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.2,51.92,https://www.airbnb.com/rooms/sample_26161,Off-Peak
+Sample Property 1987,3,4,3.0,8,329.05,160.62,3.81,10,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.6,41.13,https://www.airbnb.com/rooms/sample_7422,Peak
+Sample Property 7780,1,2,1.0,4,167.64,108.96,4.58,240,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.8,41.91,https://www.airbnb.com/rooms/sample_38468,Peak
+Sample Property 8843,2,3,1.0,6,131.19,116.9,3.79,135,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.6,21.86,https://www.airbnb.com/rooms/sample_72241,Off-Peak
+Sample Property 2735,4,5,3.0,8,265.59,218.24,4.48,299,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",5.0,33.2,https://www.airbnb.com/rooms/sample_19202,Shoulder
+Sample Property 4374,1,3,1.0,4,101.17,90.76,3.8,207,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",4.8,25.29,https://www.airbnb.com/rooms/sample_68620,Off-Peak
+Sample Property 7099,1,3,1.0,3,113.15,86.84,4.89,120,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.8,37.72,https://www.airbnb.com/rooms/sample_4896,Shoulder
+Sample Property 3408,1,1,1.0,3,76.36,78.26,3.63,248,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.4,25.45,https://www.airbnb.com/rooms/sample_18074,Off-Peak
+Sample Property 9435,4,5,4.0,9,215.03,209.98,3.81,238,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.6,23.89,https://www.airbnb.com/rooms/sample_76958,Off-Peak
+Sample Property 8842,2,3,1.0,5,162.36,127.64,3.76,129,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.6,32.47,https://www.airbnb.com/rooms/sample_94474,Shoulder
+Sample Property 5917,1,2,1.0,2,179.5,98.18,4.74,24,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.0,89.75,https://www.airbnb.com/rooms/sample_16921,Peak
+Sample Property 3494,4,4,3.0,8,187.52,216.33,4.46,42,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.4,23.44,https://www.airbnb.com/rooms/sample_79365,Off-Peak
+Sample Property 6448,3,4,2.0,6,143.73,165.89,4.67,262,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.5,23.95,https://www.airbnb.com/rooms/sample_99943,Off-Peak
+Sample Property 8870,1,1,1.0,2,69.12,87.91,4.17,6,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.4,34.56,https://www.airbnb.com/rooms/sample_69253,Off-Peak
+Sample Property 8993,2,3,2.0,4,147.26,122.04,3.78,64,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.6,36.81,https://www.airbnb.com/rooms/sample_16053,Off-Peak
+Sample Property 3355,2,2,2.0,4,220.8,150.61,3.9,116,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.3,55.2,https://www.airbnb.com/rooms/sample_93948,Peak
+Sample Property 3672,2,4,2.0,4,289.42,127.91,4.93,16,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.8,72.36,https://www.airbnb.com/rooms/sample_3632,Peak
+Sample Property 1775,5,5,4.0,11,469.63,263.12,4.84,199,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.5,42.69,https://www.airbnb.com/rooms/sample_56493,Peak
+Sample Property 9599,3,3,2.0,6,325.86,182.28,3.66,16,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.5,54.31,https://www.airbnb.com/rooms/sample_48356,Peak
+Sample Property 6439,3,5,3.0,8,278.71,177.19,4.14,110,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.3,34.84,https://www.airbnb.com/rooms/sample_35145,Shoulder
+Sample Property 9569,2,4,1.0,6,110.77,128.83,4.22,254,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.3,18.46,https://www.airbnb.com/rooms/sample_87528,Off-Peak
+Sample Property 8569,2,3,2.0,4,122.7,121.61,3.84,152,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.4,30.68,https://www.airbnb.com/rooms/sample_77426,Off-Peak
+Sample Property 6341,4,5,3.0,8,298.65,218.16,4.79,267,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.8,37.33,https://www.airbnb.com/rooms/sample_15998,Shoulder
+Sample Property 4537,4,6,3.0,9,298.39,192.83,3.66,212,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.2,33.15,https://www.airbnb.com/rooms/sample_46487,Shoulder
+Sample Property 2653,4,4,3.0,10,403.2,224.35,4.35,29,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.8,40.32,https://www.airbnb.com/rooms/sample_29807,Peak
+Sample Property 6343,2,3,1.0,4,222.89,136.1,4.82,9,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.2,55.72,https://www.airbnb.com/rooms/sample_31657,Peak
+Sample Property 2037,5,5,4.0,11,241.25,253.19,4.62,19,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Sunriver, OR",5.0,21.93,https://www.airbnb.com/rooms/sample_9597,Off-Peak
+Sample Property 3023,4,5,3.0,9,166.63,192.39,3.77,201,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.8,18.51,https://www.airbnb.com/rooms/sample_15380,Off-Peak
+Sample Property 7643,1,3,1.0,2,137.53,83.12,4.34,253,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.6,68.77,https://www.airbnb.com/rooms/sample_60604,Shoulder
+Sample Property 1541,4,6,4.0,10,311.6,205.47,4.97,116,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.4,31.16,https://www.airbnb.com/rooms/sample_94948,Shoulder
+Sample Property 2019,1,3,1.0,3,210.27,96.31,3.95,160,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.8,70.09,https://www.airbnb.com/rooms/sample_83931,Peak
+Sample Property 3097,4,6,4.0,8,410.22,198.8,3.75,106,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.7,51.28,https://www.airbnb.com/rooms/sample_90107,Peak
+Sample Property 8999,5,7,5.0,12,395.66,248.05,3.78,48,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.7,32.97,https://www.airbnb.com/rooms/sample_26202,Shoulder
+Sample Property 1685,4,5,4.0,10,348.23,205.43,4.42,187,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",5.0,34.82,https://www.airbnb.com/rooms/sample_80798,Shoulder
+Sample Property 1631,4,5,3.0,9,299.6,207.79,4.96,181,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",4.3,33.29,https://www.airbnb.com/rooms/sample_41801,Shoulder
+Sample Property 5000,5,7,4.0,11,354.53,238.69,4.66,69,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",5.0,32.23,https://www.airbnb.com/rooms/sample_77455,Shoulder
+Sample Property 2938,5,6,4.0,11,447.79,255.67,3.96,160,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.1,40.71,https://www.airbnb.com/rooms/sample_33366,Peak
+Sample Property 7566,1,1,1.0,2,110.24,67.16,4.56,16,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.5,55.12,https://www.airbnb.com/rooms/sample_13141,Off-Peak
+Sample Property 4750,5,6,4.0,10,187.74,239.9,4.32,293,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.1,18.77,https://www.airbnb.com/rooms/sample_10801,Off-Peak
+Sample Property 1781,5,6,5.0,11,230.52,254.59,3.86,167,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.0,20.96,https://www.airbnb.com/rooms/sample_81817,Off-Peak
+Sample Property 6546,3,3,2.0,8,253.27,175.05,4.66,266,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Seventh Mountain, Bend, OR",4.8,31.66,https://www.airbnb.com/rooms/sample_75940,Shoulder
+Sample Property 4525,5,5,4.0,12,297.31,260.63,4.69,262,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.9,24.78,https://www.airbnb.com/rooms/sample_1899,Shoulder
+Sample Property 7509,1,1,1.0,2,155.07,83.72,3.63,31,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.4,77.53,https://www.airbnb.com/rooms/sample_42871,Shoulder
+Sample Property 7274,5,5,4.0,10,242.8,242.28,4.29,280,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",5.0,24.28,https://www.airbnb.com/rooms/sample_77276,Off-Peak
+Sample Property 6569,5,5,4.0,11,214.87,261.4,4.73,212,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.9,19.53,https://www.airbnb.com/rooms/sample_59166,Off-Peak
+Sample Property 7450,2,2,1.0,5,218.69,125.89,4.18,74,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",4.8,43.74,https://www.airbnb.com/rooms/sample_18059,Peak
+Sample Property 6779,3,5,3.0,6,151.54,175.04,3.84,246,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Sunriver, OR",4.7,25.26,https://www.airbnb.com/rooms/sample_87961,Off-Peak
+Sample Property 8568,5,7,5.0,10,256.85,252.2,4.65,251,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.9,25.69,https://www.airbnb.com/rooms/sample_72955,Off-Peak
+Sample Property 6661,3,5,3.0,8,192.14,168.8,4.7,83,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",5.0,24.02,https://www.airbnb.com/rooms/sample_53910,Off-Peak
+Sample Property 8230,1,3,1.0,4,106.87,94.95,4.34,123,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.9,26.72,https://www.airbnb.com/rooms/sample_4494,Off-Peak
+Sample Property 2762,5,5,4.0,10,469.61,246.97,3.84,221,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.9,46.96,https://www.airbnb.com/rooms/sample_14850,Peak
+Sample Property 3479,1,1,1.0,3,146.18,112.53,3.55,34,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.6,48.73,https://www.airbnb.com/rooms/sample_49813,Shoulder
+Sample Property 5577,5,5,5.0,10,489.73,250.28,4.82,64,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.9,48.97,https://www.airbnb.com/rooms/sample_71854,Peak
+Sample Property 4740,1,3,1.0,2,204.44,107.5,4.46,27,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",5.0,102.22,https://www.airbnb.com/rooms/sample_46572,Peak
+Sample Property 3261,2,3,2.0,6,247.53,114.51,3.88,60,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.1,41.26,https://www.airbnb.com/rooms/sample_85372,Peak
+Sample Property 2455,2,2,2.0,4,248.75,152.78,3.92,176,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.0,62.19,https://www.airbnb.com/rooms/sample_58558,Peak
+Sample Property 6482,3,3,2.0,8,319.6,197.31,3.57,232,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.6,39.95,https://www.airbnb.com/rooms/sample_33624,Peak
+Sample Property 4629,5,7,5.0,12,498.72,244.1,3.75,167,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.7,41.56,https://www.airbnb.com/rooms/sample_72125,Peak
+Sample Property 9365,1,1,1.0,4,103.76,94.2,3.58,214,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.3,25.94,https://www.airbnb.com/rooms/sample_38212,Off-Peak
+Sample Property 4808,1,3,1.0,3,157.64,111.99,4.11,242,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.7,52.55,https://www.airbnb.com/rooms/sample_86121,Shoulder
+Sample Property 8544,2,3,2.0,6,107.18,130.07,3.73,258,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.9,17.86,https://www.airbnb.com/rooms/sample_30374,Off-Peak
+Sample Property 2856,3,4,2.0,7,276.06,163.54,3.63,212,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.7,39.44,https://www.airbnb.com/rooms/sample_38393,Peak
+Sample Property 4259,4,4,3.0,10,294.12,201.95,3.84,287,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Sunriver, OR",4.9,29.41,https://www.airbnb.com/rooms/sample_68671,Shoulder
+Sample Property 8835,3,4,3.0,6,367.94,200.87,4.15,195,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",4.9,61.32,https://www.airbnb.com/rooms/sample_71443,Peak
+Sample Property 2829,5,6,4.0,11,341.26,247.91,4.77,175,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.1,31.02,https://www.airbnb.com/rooms/sample_5745,Shoulder
+Sample Property 8597,5,6,5.0,11,372.96,254.09,3.55,233,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.1,33.91,https://www.airbnb.com/rooms/sample_53162,Shoulder
+Sample Property 1785,5,6,5.0,10,447.52,237.79,4.74,284,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.0,44.75,https://www.airbnb.com/rooms/sample_36576,Peak
+Sample Property 6498,4,4,4.0,8,451.46,212.5,4.76,41,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.2,56.43,https://www.airbnb.com/rooms/sample_341,Peak
+Sample Property 7626,4,4,3.0,10,298.37,198.17,3.73,138,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.7,29.84,https://www.airbnb.com/rooms/sample_57170,Shoulder
+Sample Property 3660,1,2,1.0,2,181.7,89.15,4.31,146,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Southwest Bend, Bend, OR",4.6,90.85,https://www.airbnb.com/rooms/sample_26422,Peak
+Sample Property 2207,5,7,4.0,11,227.76,252.8,3.91,45,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.9,20.71,https://www.airbnb.com/rooms/sample_60012,Off-Peak
+Sample Property 3454,4,5,4.0,10,263.47,219.57,4.08,202,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.7,26.35,https://www.airbnb.com/rooms/sample_55221,Off-Peak
+Sample Property 5258,3,4,2.0,8,258.11,173.82,3.8,115,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.3,32.26,https://www.airbnb.com/rooms/sample_80019,Shoulder
+Sample Property 2137,3,5,3.0,6,184.45,161.38,4.22,213,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.1,30.74,https://www.airbnb.com/rooms/sample_77950,Off-Peak
+Sample Property 7144,5,6,5.0,12,497.53,246.44,3.6,140,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.7,41.46,https://www.airbnb.com/rooms/sample_11391,Peak
+Sample Property 8427,1,3,1.0,4,160.8,99.75,4.11,74,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Southwest Bend, Bend, OR",4.6,40.2,https://www.airbnb.com/rooms/sample_10208,Peak
+Sample Property 8913,2,2,2.0,6,120.73,127.81,3.86,187,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.7,20.12,https://www.airbnb.com/rooms/sample_96159,Off-Peak
+Sample Property 4701,4,5,4.0,10,200.61,203.02,3.98,52,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.2,20.06,https://www.airbnb.com/rooms/sample_35597,Off-Peak
+Sample Property 8651,5,7,5.0,12,439.61,251.84,4.44,51,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.7,36.63,https://www.airbnb.com/rooms/sample_8245,Peak
+Sample Property 8016,4,4,4.0,10,326.12,218.12,4.62,78,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.8,32.61,https://www.airbnb.com/rooms/sample_50962,Shoulder
+Sample Property 6276,1,3,1.0,3,106.5,81.33,4.9,120,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.8,35.5,https://www.airbnb.com/rooms/sample_5572,Off-Peak
+Sample Property 7091,4,5,4.0,10,310.47,217.56,4.51,185,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.9,31.05,https://www.airbnb.com/rooms/sample_44761,Shoulder
+Sample Property 9043,2,4,2.0,4,198.83,130.68,3.69,280,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.8,49.71,https://www.airbnb.com/rooms/sample_63116,Shoulder
+Sample Property 4374,5,6,5.0,10,318.35,250.17,3.67,255,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",4.1,31.84,https://www.airbnb.com/rooms/sample_85993,Shoulder
+Sample Property 4237,5,6,5.0,10,358.38,264.17,4.21,99,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",4.3,35.84,https://www.airbnb.com/rooms/sample_18136,Shoulder
+Sample Property 6184,4,5,4.0,9,413.13,229.65,4.84,251,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.8,45.9,https://www.airbnb.com/rooms/sample_10294,Peak
+Sample Property 9088,2,2,1.0,6,110.43,120.06,4.6,101,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.0,18.41,https://www.airbnb.com/rooms/sample_61611,Off-Peak
+Sample Property 3745,1,2,1.0,3,201.07,82.77,4.79,180,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",4.1,67.02,https://www.airbnb.com/rooms/sample_81030,Peak
+Sample Property 1719,5,5,5.0,12,350.22,235.32,3.95,134,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.5,29.19,https://www.airbnb.com/rooms/sample_88840,Shoulder
+Sample Property 9680,1,3,1.0,2,127.08,88.2,4.91,225,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.5,63.54,https://www.airbnb.com/rooms/sample_58586,Shoulder
+Sample Property 7683,4,5,3.0,8,432.53,214.33,4.67,16,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.9,54.07,https://www.airbnb.com/rooms/sample_46474,Peak
+Sample Property 8006,3,3,3.0,8,358.07,170.61,4.51,48,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.5,44.76,https://www.airbnb.com/rooms/sample_90271,Peak
+Sample Property 2946,1,2,1.0,3,68.22,88.44,4.64,223,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Old Bend, Bend, OR",4.6,22.74,https://www.airbnb.com/rooms/sample_44606,Off-Peak
+Sample Property 9811,2,3,1.0,5,144.02,127.33,4.77,239,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.4,28.8,https://www.airbnb.com/rooms/sample_28329,Shoulder
+Sample Property 8186,4,6,3.0,10,163.04,214.62,3.76,153,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.7,16.3,https://www.airbnb.com/rooms/sample_28002,Off-Peak
+Sample Property 9199,1,3,1.0,2,77.17,94.88,4.66,93,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.2,38.59,https://www.airbnb.com/rooms/sample_93784,Off-Peak
+Sample Property 9155,2,3,2.0,5,269.27,135.47,4.89,254,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.3,53.85,https://www.airbnb.com/rooms/sample_84290,Peak
+Sample Property 3787,3,4,3.0,8,381.99,167.53,3.93,247,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.5,47.75,https://www.airbnb.com/rooms/sample_92765,Peak
+Sample Property 4929,1,3,1.0,2,133.31,83.28,4.04,273,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.6,66.66,https://www.airbnb.com/rooms/sample_66642,Shoulder
+Sample Property 5200,4,4,3.0,8,164.47,210.33,3.84,192,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.2,20.56,https://www.airbnb.com/rooms/sample_63044,Off-Peak
+Sample Property 2132,5,7,4.0,12,371.02,245.26,4.03,153,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.8,30.92,https://www.airbnb.com/rooms/sample_8276,Shoulder
+Sample Property 5570,2,2,2.0,4,196.84,126.83,3.6,270,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Summit West, Bend, OR",4.1,49.21,https://www.airbnb.com/rooms/sample_45096,Shoulder
+Sample Property 4252,5,6,5.0,11,316.5,262.48,3.92,278,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",4.8,28.77,https://www.airbnb.com/rooms/sample_49977,Shoulder
+Sample Property 4156,5,5,4.0,11,452.67,256.46,3.96,2,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Seventh Mountain, Bend, OR",5.0,41.15,https://www.airbnb.com/rooms/sample_85030,Peak
+Sample Property 3749,3,5,2.0,8,321.82,183.97,4.73,111,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.4,40.23,https://www.airbnb.com/rooms/sample_7215,Peak
+Sample Property 4273,4,6,3.0,9,229.78,219.79,3.53,161,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",5.0,25.53,https://www.airbnb.com/rooms/sample_12298,Off-Peak
+Sample Property 6310,1,1,1.0,4,127.32,92.5,4.26,291,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Old Bend, Bend, OR",4.7,31.83,https://www.airbnb.com/rooms/sample_7264,Shoulder
+Sample Property 4664,3,4,3.0,8,183.32,174.22,3.55,168,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Southwest Bend, Bend, OR",5.0,22.91,https://www.airbnb.com/rooms/sample_1539,Off-Peak
+Sample Property 4171,1,3,1.0,4,97.39,94.93,4.68,127,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",4.8,24.35,https://www.airbnb.com/rooms/sample_18920,Shoulder
+Sample Property 4922,2,2,1.0,5,187.98,119.99,4.56,167,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.7,37.6,https://www.airbnb.com/rooms/sample_390,Shoulder
+Sample Property 8262,5,6,5.0,12,378.74,252.3,3.96,150,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.5,31.56,https://www.airbnb.com/rooms/sample_43527,Shoulder
+Sample Property 4197,3,4,2.0,8,233.89,163.6,4.09,282,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.4,29.24,https://www.airbnb.com/rooms/sample_72526,Shoulder
+Sample Property 5821,5,6,4.0,12,230.08,243.86,4.0,46,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Old Bend, Bend, OR",4.8,19.17,https://www.airbnb.com/rooms/sample_81487,Off-Peak
+Sample Property 7361,3,4,3.0,6,261.88,169.51,4.18,201,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.1,43.65,https://www.airbnb.com/rooms/sample_25918,Shoulder
+Sample Property 8162,1,1,1.0,3,181.93,75.56,4.41,97,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.3,60.64,https://www.airbnb.com/rooms/sample_76362,Peak
+Sample Property 4554,2,4,2.0,6,295.31,123.72,4.47,289,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.7,49.22,https://www.airbnb.com/rooms/sample_94768,Peak
+Sample Property 2813,1,3,1.0,4,85.7,92.77,4.44,24,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.4,21.43,https://www.airbnb.com/rooms/sample_78855,Off-Peak
+Sample Property 8071,1,1,1.0,4,112.49,86.66,4.51,175,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.7,28.12,https://www.airbnb.com/rooms/sample_78514,Off-Peak
+Sample Property 9264,3,5,3.0,8,246.26,153.93,4.16,247,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.7,30.78,https://www.airbnb.com/rooms/sample_4018,Shoulder
+Sample Property 6166,4,4,3.0,10,397.18,215.68,3.54,224,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.2,39.72,https://www.airbnb.com/rooms/sample_10443,Peak
+Sample Property 2526,5,6,5.0,11,488.4,252.39,4.76,37,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.3,44.4,https://www.airbnb.com/rooms/sample_76163,Peak
+Sample Property 7864,2,3,2.0,6,149.55,122.47,4.88,106,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.4,24.93,https://www.airbnb.com/rooms/sample_91830,Off-Peak
+Sample Property 6307,5,5,4.0,12,208.23,256.93,4.75,167,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.9,17.35,https://www.airbnb.com/rooms/sample_47196,Off-Peak
+Sample Property 9003,2,3,2.0,5,116.19,130.04,3.82,128,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.4,23.24,https://www.airbnb.com/rooms/sample_67174,Off-Peak
+Sample Property 1802,5,5,5.0,10,517.12,259.58,4.71,128,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.5,51.71,https://www.airbnb.com/rooms/sample_3607,Peak
+Sample Property 9758,1,1,1.0,4,170.15,95.69,4.93,35,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.3,42.54,https://www.airbnb.com/rooms/sample_11088,Peak
+Sample Property 1661,1,1,1.0,2,93.5,119.85,4.28,260,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.9,46.75,https://www.airbnb.com/rooms/sample_16323,Off-Peak
+Sample Property 2647,1,3,1.0,2,115.24,95.35,3.68,246,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.7,57.62,https://www.airbnb.com/rooms/sample_44050,Shoulder
+Sample Property 8178,1,2,1.0,3,112.38,108.34,3.87,246,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Summit West, Bend, OR",4.3,37.46,https://www.airbnb.com/rooms/sample_3454,Off-Peak
+Sample Property 7318,4,6,4.0,8,446.83,186.69,4.63,140,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.5,55.85,https://www.airbnb.com/rooms/sample_32973,Peak
+Sample Property 6388,1,1,1.0,2,143.67,81.94,4.09,6,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.8,71.83,https://www.airbnb.com/rooms/sample_36414,Shoulder
+Sample Property 4893,1,3,1.0,4,175.57,99.58,4.59,119,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.9,43.89,https://www.airbnb.com/rooms/sample_27049,Shoulder
+Sample Property 5008,3,5,2.0,6,181.64,170.44,4.82,138,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Southwest Bend, Bend, OR",4.8,30.27,https://www.airbnb.com/rooms/sample_43443,Off-Peak
+Sample Property 5780,2,3,1.0,6,176.33,124.4,4.18,44,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.6,29.39,https://www.airbnb.com/rooms/sample_26947,Shoulder
+Sample Property 7003,3,5,2.0,7,220.41,147.94,3.57,106,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.8,31.49,https://www.airbnb.com/rooms/sample_42240,Shoulder
+Sample Property 6255,1,1,1.0,4,95.37,105.13,4.14,294,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.0,23.84,https://www.airbnb.com/rooms/sample_89792,Off-Peak
+Sample Property 1990,4,4,4.0,10,397.02,193.9,4.4,63,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.5,39.7,https://www.airbnb.com/rooms/sample_56234,Peak
+Sample Property 6944,4,5,4.0,8,237.39,192.39,3.86,93,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.7,29.67,https://www.airbnb.com/rooms/sample_21840,Off-Peak
+Sample Property 1383,1,2,1.0,3,145.22,100.31,4.32,238,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",4.3,48.41,https://www.airbnb.com/rooms/sample_47789,Shoulder
+Sample Property 4046,4,4,3.0,9,261.98,216.18,4.67,206,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.8,29.11,https://www.airbnb.com/rooms/sample_22868,Shoulder
+Sample Property 9799,4,4,3.0,8,281.27,194.36,3.87,4,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.8,35.16,https://www.airbnb.com/rooms/sample_2104,Shoulder
+Sample Property 2205,3,5,3.0,8,174.68,166.17,4.56,37,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.3,21.84,https://www.airbnb.com/rooms/sample_64287,Off-Peak
+Sample Property 3964,3,3,2.0,8,212.17,167.56,4.68,290,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.7,26.52,https://www.airbnb.com/rooms/sample_65207,Shoulder
+Sample Property 1067,3,4,3.0,8,306.95,155.25,4.99,18,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.4,38.37,https://www.airbnb.com/rooms/sample_84179,Peak
+Sample Property 6780,3,4,2.0,8,299.75,192.2,4.97,245,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.5,37.47,https://www.airbnb.com/rooms/sample_53536,Peak
+Sample Property 4716,3,3,2.0,8,166.17,168.4,3.58,58,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.6,20.77,https://www.airbnb.com/rooms/sample_95041,Off-Peak
+Sample Property 5749,4,4,4.0,9,229.05,214.74,3.59,111,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.5,25.45,https://www.airbnb.com/rooms/sample_34088,Off-Peak
+Sample Property 9996,4,5,3.0,10,172.94,206.87,4.75,291,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.4,17.29,https://www.airbnb.com/rooms/sample_76950,Off-Peak
+Sample Property 6866,4,4,3.0,9,408.63,212.61,3.82,44,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.7,45.4,https://www.airbnb.com/rooms/sample_88152,Peak
+Sample Property 8431,1,3,1.0,2,185.77,90.75,4.91,221,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",5.0,92.89,https://www.airbnb.com/rooms/sample_78769,Peak
+Sample Property 3411,1,2,1.0,2,76.67,88.22,3.75,250,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.1,38.34,https://www.airbnb.com/rooms/sample_45839,Off-Peak
+Sample Property 1861,5,7,5.0,11,362.75,260.52,3.53,137,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.7,32.98,https://www.airbnb.com/rooms/sample_16352,Shoulder
+Sample Property 8357,4,4,3.0,9,309.52,225.01,3.71,265,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.0,34.39,https://www.airbnb.com/rooms/sample_79676,Shoulder
+Sample Property 6208,1,1,1.0,4,66.28,66.78,4.36,105,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Southwest Bend, Bend, OR",5.0,16.57,https://www.airbnb.com/rooms/sample_86056,Off-Peak
+Sample Property 4109,4,5,4.0,8,418.95,227.04,4.76,248,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Sunriver, OR",4.4,52.37,https://www.airbnb.com/rooms/sample_35304,Peak
+Sample Property 2881,5,5,5.0,10,288.08,266.26,4.8,131,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.7,28.81,https://www.airbnb.com/rooms/sample_80358,Off-Peak
+Sample Property 9597,4,4,3.0,10,301.34,205.7,4.41,199,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.8,30.13,https://www.airbnb.com/rooms/sample_91680,Shoulder
+Sample Property 8869,3,4,3.0,8,350.39,186.28,4.98,126,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.9,43.8,https://www.airbnb.com/rooms/sample_19943,Peak
+Sample Property 1336,4,4,4.0,10,207.05,204.67,3.73,272,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.9,20.71,https://www.airbnb.com/rooms/sample_77486,Off-Peak
+Sample Property 1721,3,4,3.0,8,272.29,185.19,4.27,285,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.4,34.04,https://www.airbnb.com/rooms/sample_33886,Shoulder
+Sample Property 7771,2,2,2.0,4,262.63,125.93,4.51,179,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.1,65.66,https://www.airbnb.com/rooms/sample_53665,Peak
+Sample Property 4871,1,1,1.0,4,119.45,96.93,3.57,236,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.2,29.86,https://www.airbnb.com/rooms/sample_91457,Shoulder
+Sample Property 9924,3,4,2.0,8,239.0,165.54,4.78,55,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.7,29.88,https://www.airbnb.com/rooms/sample_90611,Shoulder
+Sample Property 2874,1,1,1.0,4,155.34,79.97,4.46,272,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.8,38.84,https://www.airbnb.com/rooms/sample_76919,Peak
+Sample Property 2517,5,7,4.0,11,487.52,264.73,4.69,251,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.8,44.32,https://www.airbnb.com/rooms/sample_1962,Peak
+Sample Property 7615,2,2,2.0,5,136.48,118.52,4.01,236,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.2,27.3,https://www.airbnb.com/rooms/sample_55806,Off-Peak
+Sample Property 4354,2,2,1.0,5,159.52,126.53,3.58,270,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Summit West, Bend, OR",4.2,31.9,https://www.airbnb.com/rooms/sample_79535,Shoulder
+Sample Property 7511,2,4,2.0,5,174.13,119.37,3.91,88,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.6,34.83,https://www.airbnb.com/rooms/sample_29524,Shoulder
+Sample Property 9185,1,2,1.0,3,186.97,82.68,3.95,24,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.5,62.32,https://www.airbnb.com/rooms/sample_35441,Peak
+Sample Property 9383,3,5,3.0,8,345.28,182.72,4.85,241,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.1,43.16,https://www.airbnb.com/rooms/sample_4299,Peak
+Sample Property 4932,5,5,4.0,10,337.87,247.52,3.84,58,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.6,33.79,https://www.airbnb.com/rooms/sample_5899,Shoulder
+Sample Property 9923,4,6,3.0,8,261.15,213.78,4.98,102,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",4.1,32.64,https://www.airbnb.com/rooms/sample_1588,Shoulder
+Sample Property 7837,1,1,1.0,3,113.47,92.21,4.85,208,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.8,37.82,https://www.airbnb.com/rooms/sample_39614,Shoulder
+Sample Property 5524,1,1,1.0,3,171.19,100.41,4.76,13,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.4,57.06,https://www.airbnb.com/rooms/sample_75505,Peak
+Sample Property 7049,5,7,4.0,11,232.16,242.41,3.55,4,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.7,21.11,https://www.airbnb.com/rooms/sample_88210,Off-Peak
+Sample Property 8566,4,4,4.0,9,405.59,202.38,4.42,238,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.4,45.07,https://www.airbnb.com/rooms/sample_18020,Peak
+Sample Property 2956,3,4,2.0,6,341.92,166.43,3.61,238,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.0,56.99,https://www.airbnb.com/rooms/sample_96144,Peak
+Sample Property 4854,4,4,3.0,8,286.8,203.69,4.6,200,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Sunriver, OR",4.9,35.85,https://www.airbnb.com/rooms/sample_33770,Shoulder
+Sample Property 1422,5,5,4.0,12,230.61,249.11,4.6,170,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.0,19.22,https://www.airbnb.com/rooms/sample_1658,Off-Peak
+Sample Property 2447,5,6,4.0,10,248.09,245.27,4.32,228,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.6,24.81,https://www.airbnb.com/rooms/sample_3723,Off-Peak
+Sample Property 1725,3,3,2.0,8,292.72,182.79,4.73,290,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.5,36.59,https://www.airbnb.com/rooms/sample_31722,Peak
+Sample Property 2814,3,3,2.0,8,274.61,163.75,3.6,124,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.5,34.33,https://www.airbnb.com/rooms/sample_77854,Peak
+Sample Property 2048,1,2,1.0,4,73.19,87.75,4.49,115,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.2,18.3,https://www.airbnb.com/rooms/sample_50773,Off-Peak
+Sample Property 7197,5,6,5.0,12,509.82,246.42,3.82,271,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.0,42.48,https://www.airbnb.com/rooms/sample_1882,Peak
+Sample Property 5922,1,3,1.0,4,177.59,90.16,4.3,78,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.4,44.4,https://www.airbnb.com/rooms/sample_28203,Peak
+Sample Property 7543,1,3,1.0,2,151.16,98.57,4.0,70,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.4,75.58,https://www.airbnb.com/rooms/sample_86211,Peak
+Sample Property 8478,4,6,3.0,10,181.62,200.42,3.73,147,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.4,18.16,https://www.airbnb.com/rooms/sample_69856,Off-Peak
+Sample Property 2909,2,2,1.0,5,153.59,136.08,3.89,21,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.1,30.72,https://www.airbnb.com/rooms/sample_97267,Shoulder
+Sample Property 4121,3,4,2.0,8,312.87,158.71,4.1,125,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.0,39.11,https://www.airbnb.com/rooms/sample_44332,Peak
+Sample Property 6308,2,2,1.0,4,184.6,141.15,4.46,94,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.4,46.15,https://www.airbnb.com/rooms/sample_90072,Shoulder
+Sample Property 9532,1,2,1.0,2,121.83,86.08,4.67,94,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Southwest Bend, Bend, OR",4.2,60.91,https://www.airbnb.com/rooms/sample_94172,Shoulder
+Sample Property 1011,5,6,5.0,11,393.01,254.51,3.73,282,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.7,35.73,https://www.airbnb.com/rooms/sample_48444,Shoulder
+Sample Property 2015,4,5,3.0,8,174.0,217.57,4.62,41,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.6,21.75,https://www.airbnb.com/rooms/sample_86484,Off-Peak
+Sample Property 8240,2,4,2.0,4,98.11,146.94,4.2,200,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.8,24.53,https://www.airbnb.com/rooms/sample_72743,Off-Peak
+Sample Property 6197,4,5,4.0,10,230.15,197.45,4.1,14,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Larkspur, Bend, OR",4.6,23.02,https://www.airbnb.com/rooms/sample_16664,Off-Peak
+Sample Property 5427,5,6,4.0,11,240.27,246.73,3.73,35,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.9,21.84,https://www.airbnb.com/rooms/sample_68313,Off-Peak
+Sample Property 6060,1,1,1.0,3,151.84,81.91,4.49,103,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.3,50.61,https://www.airbnb.com/rooms/sample_72685,Shoulder
+Sample Property 1371,5,7,4.0,12,454.8,252.87,4.47,255,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.0,37.9,https://www.airbnb.com/rooms/sample_40223,Peak
+Sample Property 8774,3,3,2.0,8,157.46,179.24,4.07,218,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",4.3,19.68,https://www.airbnb.com/rooms/sample_62048,Off-Peak
+Sample Property 4966,3,5,3.0,7,338.19,179.77,3.99,110,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.9,48.31,https://www.airbnb.com/rooms/sample_69640,Peak
+Sample Property 2644,5,7,5.0,12,359.22,253.46,3.89,166,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.7,29.94,https://www.airbnb.com/rooms/sample_6829,Shoulder
+Sample Property 5039,3,3,3.0,6,275.91,173.5,3.69,297,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.3,45.99,https://www.airbnb.com/rooms/sample_56397,Shoulder
+Sample Property 2802,4,4,3.0,10,316.11,232.78,4.46,10,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.7,31.61,https://www.airbnb.com/rooms/sample_99246,Shoulder
+Sample Property 4957,4,5,4.0,9,420.77,214.11,4.84,262,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.2,46.75,https://www.airbnb.com/rooms/sample_73370,Peak
+Sample Property 9792,4,6,4.0,8,216.41,211.75,4.75,53,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.4,27.05,https://www.airbnb.com/rooms/sample_79879,Off-Peak
+Sample Property 1746,2,4,1.0,5,159.42,140.42,4.95,25,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.1,31.88,https://www.airbnb.com/rooms/sample_27406,Shoulder
+Sample Property 1946,3,4,2.0,6,131.93,153.13,3.5,46,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.4,21.99,https://www.airbnb.com/rooms/sample_11351,Off-Peak
+Sample Property 2464,1,2,1.0,3,79.6,85.08,4.4,229,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.2,26.53,https://www.airbnb.com/rooms/sample_99516,Off-Peak
+Sample Property 1919,2,2,1.0,6,99.61,127.39,4.7,243,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",4.4,16.6,https://www.airbnb.com/rooms/sample_508,Off-Peak
+Sample Property 5399,5,7,5.0,12,359.87,251.73,3.98,38,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.8,29.99,https://www.airbnb.com/rooms/sample_71948,Shoulder
+Sample Property 3646,4,5,3.0,8,269.15,221.78,3.99,69,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.5,33.64,https://www.airbnb.com/rooms/sample_76383,Shoulder
+Sample Property 9462,5,6,5.0,11,236.5,245.97,4.42,171,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.5,21.5,https://www.airbnb.com/rooms/sample_98726,Off-Peak
+Sample Property 7748,5,6,5.0,12,222.52,247.31,3.6,171,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Southwest Bend, Bend, OR",4.4,18.54,https://www.airbnb.com/rooms/sample_44117,Off-Peak
+Sample Property 5524,3,5,2.0,8,254.56,189.35,4.73,214,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.2,31.82,https://www.airbnb.com/rooms/sample_77607,Shoulder
+Sample Property 9220,2,4,2.0,4,203.62,123.65,4.08,5,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",5.0,50.91,https://www.airbnb.com/rooms/sample_85059,Shoulder
+Sample Property 6452,2,4,1.0,6,175.03,122.65,4.99,8,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.0,29.17,https://www.airbnb.com/rooms/sample_67599,Shoulder
+Sample Property 6831,2,2,1.0,4,248.24,112.67,3.94,11,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.8,62.06,https://www.airbnb.com/rooms/sample_69454,Peak
+Sample Property 2342,1,1,1.0,4,154.4,77.95,4.51,178,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",4.4,38.6,https://www.airbnb.com/rooms/sample_78292,Shoulder
+Sample Property 3653,4,4,3.0,9,205.58,210.57,4.24,196,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.8,22.84,https://www.airbnb.com/rooms/sample_85962,Off-Peak
+Sample Property 4510,5,6,5.0,12,415.21,240.09,4.67,34,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.2,34.6,https://www.airbnb.com/rooms/sample_43241,Shoulder
+Sample Property 9890,1,3,1.0,4,122.91,98.26,4.06,27,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",5.0,30.73,https://www.airbnb.com/rooms/sample_5731,Shoulder
+Sample Property 7671,2,4,2.0,5,133.15,130.06,4.45,172,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.4,26.63,https://www.airbnb.com/rooms/sample_28757,Off-Peak
+Sample Property 6014,1,1,1.0,3,131.04,110.68,4.38,76,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.7,43.68,https://www.airbnb.com/rooms/sample_96871,Shoulder
+Sample Property 2073,3,3,2.0,7,231.52,168.4,3.56,133,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Summit West, Bend, OR",4.4,33.07,https://www.airbnb.com/rooms/sample_68117,Shoulder
+Sample Property 9488,2,2,2.0,4,241.43,135.68,4.24,248,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.3,60.36,https://www.airbnb.com/rooms/sample_2882,Peak
+Sample Property 8036,3,5,3.0,8,272.05,191.21,3.69,34,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.0,34.01,https://www.airbnb.com/rooms/sample_4604,Shoulder
+Sample Property 8349,3,4,3.0,7,263.84,182.21,4.87,128,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.2,37.69,https://www.airbnb.com/rooms/sample_47976,Shoulder
+Sample Property 8016,2,3,2.0,4,116.22,131.43,3.62,38,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.2,29.05,https://www.airbnb.com/rooms/sample_86972,Off-Peak
+Sample Property 7297,4,4,4.0,10,306.74,217.85,4.9,271,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Southwest Bend, Bend, OR",4.7,30.67,https://www.airbnb.com/rooms/sample_3333,Shoulder
+Sample Property 1066,4,6,3.0,10,370.53,220.07,3.57,255,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Sunriver, OR",4.2,37.05,https://www.airbnb.com/rooms/sample_11773,Peak
+Sample Property 1198,2,2,1.0,4,245.64,122.09,3.97,59,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.9,61.41,https://www.airbnb.com/rooms/sample_44238,Peak
+Sample Property 5588,2,4,2.0,6,251.1,120.97,4.51,12,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.7,41.85,https://www.airbnb.com/rooms/sample_77507,Peak
+Sample Property 2490,2,4,1.0,6,219.97,115.82,4.29,143,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.8,36.66,https://www.airbnb.com/rooms/sample_1516,Peak
+Sample Property 2167,3,5,2.0,6,151.2,170.57,4.23,231,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.6,25.2,https://www.airbnb.com/rooms/sample_88659,Off-Peak
+Sample Property 4992,2,2,2.0,4,203.16,135.51,4.87,214,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.1,50.79,https://www.airbnb.com/rooms/sample_64174,Shoulder
+Sample Property 1687,3,4,3.0,8,169.71,168.7,3.99,183,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.9,21.21,https://www.airbnb.com/rooms/sample_98016,Off-Peak
+Sample Property 1378,3,5,3.0,6,356.91,181.51,4.46,236,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.5,59.49,https://www.airbnb.com/rooms/sample_31974,Peak
+Sample Property 6603,4,6,4.0,10,183.11,212.12,4.37,186,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Summit West, Bend, OR",5.0,18.31,https://www.airbnb.com/rooms/sample_33140,Off-Peak
+Sample Property 6969,3,4,3.0,6,246.35,162.09,4.11,205,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",4.7,41.06,https://www.airbnb.com/rooms/sample_43255,Shoulder
+Sample Property 2907,3,4,3.0,6,159.51,183.52,4.32,0,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.5,26.58,https://www.airbnb.com/rooms/sample_23650,Off-Peak
+Sample Property 3061,2,3,2.0,4,190.61,120.14,4.97,208,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Southwest Bend, Bend, OR",4.5,47.65,https://www.airbnb.com/rooms/sample_15805,Shoulder
+Sample Property 9633,5,6,5.0,10,233.15,254.03,3.57,131,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",5.0,23.32,https://www.airbnb.com/rooms/sample_88389,Off-Peak
+Sample Property 8893,5,7,5.0,10,513.91,278.84,4.61,156,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.7,51.39,https://www.airbnb.com/rooms/sample_23489,Peak
+Sample Property 2128,1,1,1.0,2,163.58,75.26,4.62,187,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.1,81.79,https://www.airbnb.com/rooms/sample_4568,Shoulder
+Sample Property 5284,1,1,1.0,3,197.4,101.15,4.26,78,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.0,65.8,https://www.airbnb.com/rooms/sample_41786,Peak
+Sample Property 1192,4,6,4.0,9,298.74,218.23,4.83,51,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.5,33.19,https://www.airbnb.com/rooms/sample_62895,Shoulder
+Sample Property 9274,4,5,4.0,10,299.36,202.4,4.14,184,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.9,29.94,https://www.airbnb.com/rooms/sample_18558,Shoulder
+Sample Property 5493,5,7,5.0,11,478.87,239.41,4.51,206,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.6,43.53,https://www.airbnb.com/rooms/sample_24467,Peak
+Sample Property 7464,1,2,1.0,3,183.62,103.03,4.93,218,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.4,61.21,https://www.airbnb.com/rooms/sample_9270,Peak
+Sample Property 6966,2,2,1.0,5,217.22,121.09,4.82,205,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Summit West, Bend, OR",4.7,43.44,https://www.airbnb.com/rooms/sample_24701,Peak
+Sample Property 4129,1,1,1.0,3,160.12,94.2,3.63,44,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.2,53.37,https://www.airbnb.com/rooms/sample_82988,Peak
+Sample Property 8776,3,4,3.0,8,340.67,188.83,4.26,293,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.3,42.58,https://www.airbnb.com/rooms/sample_59471,Peak
+Sample Property 8481,3,5,3.0,7,373.26,172.11,4.44,81,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.6,53.32,https://www.airbnb.com/rooms/sample_83124,Peak
+Sample Property 5078,2,4,1.0,5,210.64,126.9,3.95,203,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.7,42.13,https://www.airbnb.com/rooms/sample_61248,Peak
+Sample Property 8382,3,4,2.0,7,148.44,178.01,4.12,202,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.1,21.21,https://www.airbnb.com/rooms/sample_4137,Off-Peak
+Sample Property 8127,5,6,4.0,10,463.63,260.82,3.96,272,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.7,46.36,https://www.airbnb.com/rooms/sample_68245,Peak
+Sample Property 3148,2,4,2.0,5,250.6,125.71,4.4,16,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.3,50.12,https://www.airbnb.com/rooms/sample_23890,Peak
+Sample Property 5626,3,5,3.0,6,224.86,169.96,3.63,25,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.6,37.48,https://www.airbnb.com/rooms/sample_38368,Shoulder
+Sample Property 5272,5,7,4.0,10,382.77,253.98,3.97,130,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.4,38.28,https://www.airbnb.com/rooms/sample_87348,Shoulder
+Sample Property 7965,4,4,3.0,10,183.67,210.55,4.09,48,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.6,18.37,https://www.airbnb.com/rooms/sample_4583,Off-Peak
+Sample Property 8328,4,5,3.0,10,166.69,212.19,4.62,211,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.7,16.67,https://www.airbnb.com/rooms/sample_51659,Off-Peak
+Sample Property 3941,2,3,1.0,5,152.11,132.24,4.17,281,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.1,30.42,https://www.airbnb.com/rooms/sample_92906,Off-Peak
+Sample Property 2299,1,3,1.0,2,183.63,102.15,4.59,182,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.4,91.81,https://www.airbnb.com/rooms/sample_77356,Peak
+Sample Property 9167,5,6,4.0,10,203.69,260.26,4.21,47,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.9,20.37,https://www.airbnb.com/rooms/sample_22885,Off-Peak
+Sample Property 2032,3,3,3.0,8,186.46,176.83,4.45,92,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.7,23.31,https://www.airbnb.com/rooms/sample_58233,Off-Peak
+Sample Property 4723,3,4,2.0,7,210.77,161.04,3.79,118,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.7,30.11,https://www.airbnb.com/rooms/sample_91075,Shoulder
+Sample Property 8288,3,3,2.0,8,147.06,158.98,4.95,196,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.7,18.38,https://www.airbnb.com/rooms/sample_33542,Off-Peak
+Sample Property 2674,5,7,5.0,12,364.11,235.15,3.7,227,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.1,30.34,https://www.airbnb.com/rooms/sample_10493,Shoulder
+Sample Property 6413,2,2,1.0,4,84.7,121.99,3.56,43,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.0,21.18,https://www.airbnb.com/rooms/sample_62515,Off-Peak
+Sample Property 3007,2,3,1.0,6,277.82,133.77,4.21,17,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.8,46.3,https://www.airbnb.com/rooms/sample_55088,Peak
+Sample Property 5938,2,4,1.0,5,117.36,123.26,4.69,56,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.7,23.47,https://www.airbnb.com/rooms/sample_8647,Off-Peak
+Sample Property 5530,1,1,1.0,3,211.67,75.52,4.37,245,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.9,70.56,https://www.airbnb.com/rooms/sample_16693,Peak
+Sample Property 7353,2,4,1.0,4,146.97,138.02,4.18,274,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.1,36.74,https://www.airbnb.com/rooms/sample_33314,Off-Peak
+Sample Property 3663,5,5,4.0,11,448.73,243.06,4.34,249,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.7,40.79,https://www.airbnb.com/rooms/sample_88658,Peak
+Sample Property 7159,5,5,4.0,11,491.33,246.78,3.55,253,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.5,44.67,https://www.airbnb.com/rooms/sample_77130,Peak
+Sample Property 2798,4,4,4.0,8,208.34,222.12,4.64,254,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.4,26.04,https://www.airbnb.com/rooms/sample_95108,Off-Peak
+Sample Property 2008,3,4,3.0,6,307.58,166.74,4.98,150,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",5.0,51.26,https://www.airbnb.com/rooms/sample_70248,Peak
+Sample Property 3803,5,6,5.0,11,501.6,241.41,4.08,98,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.8,45.6,https://www.airbnb.com/rooms/sample_84586,Peak
+Sample Property 2223,5,6,4.0,12,216.77,237.81,4.89,73,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.4,18.06,https://www.airbnb.com/rooms/sample_37046,Off-Peak
+Sample Property 8448,3,4,2.0,7,259.52,178.86,4.11,97,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.9,37.07,https://www.airbnb.com/rooms/sample_5630,Shoulder
+Sample Property 4407,1,3,1.0,2,158.32,111.17,3.59,68,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.1,79.16,https://www.airbnb.com/rooms/sample_80731,Peak
+Sample Property 2173,3,4,2.0,7,188.69,180.0,3.62,58,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.9,26.96,https://www.airbnb.com/rooms/sample_69352,Off-Peak
+Sample Property 8054,3,5,2.0,8,181.76,173.69,4.17,194,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.9,22.72,https://www.airbnb.com/rooms/sample_38524,Off-Peak
+Sample Property 7811,1,3,1.0,4,124.05,85.52,3.97,144,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.3,31.01,https://www.airbnb.com/rooms/sample_81298,Shoulder
+Sample Property 7468,4,6,4.0,10,429.2,208.25,3.51,41,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Old Bend, Bend, OR",4.5,42.92,https://www.airbnb.com/rooms/sample_79370,Peak
+Sample Property 8892,3,5,3.0,6,323.07,164.15,3.62,144,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.6,53.84,https://www.airbnb.com/rooms/sample_30374,Peak
+Sample Property 7364,3,5,3.0,7,347.92,172.64,4.69,291,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.9,49.7,https://www.airbnb.com/rooms/sample_4026,Peak
+Sample Property 9347,3,3,2.0,8,233.83,163.68,3.89,276,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",4.3,29.23,https://www.airbnb.com/rooms/sample_1408,Shoulder
+Sample Property 5332,1,1,1.0,4,159.07,68.51,4.27,54,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.9,39.77,https://www.airbnb.com/rooms/sample_24503,Peak
+Sample Property 9449,3,3,3.0,6,333.59,170.25,4.17,99,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.3,55.6,https://www.airbnb.com/rooms/sample_51963,Peak
+Sample Property 2860,1,3,1.0,2,79.65,87.02,4.27,56,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.9,39.83,https://www.airbnb.com/rooms/sample_93899,Off-Peak
+Sample Property 3044,3,5,3.0,6,338.3,185.1,4.27,282,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.2,56.38,https://www.airbnb.com/rooms/sample_76209,Peak
+Sample Property 8194,5,5,4.0,12,343.01,245.3,4.56,166,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.5,28.58,https://www.airbnb.com/rooms/sample_67039,Shoulder
+Sample Property 7856,2,4,1.0,5,125.74,114.29,3.87,254,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.5,25.15,https://www.airbnb.com/rooms/sample_74756,Off-Peak
+Sample Property 1403,4,4,3.0,9,172.58,219.29,3.85,67,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.7,19.18,https://www.airbnb.com/rooms/sample_5471,Off-Peak
+Sample Property 7606,4,5,4.0,9,211.7,225.95,4.36,121,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.7,23.52,https://www.airbnb.com/rooms/sample_2043,Off-Peak
+Sample Property 2101,2,3,1.0,5,100.59,114.73,4.72,2,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.1,20.12,https://www.airbnb.com/rooms/sample_58032,Off-Peak
+Sample Property 8890,1,3,1.0,3,70.31,82.07,4.12,218,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.9,23.44,https://www.airbnb.com/rooms/sample_46563,Off-Peak
+Sample Property 4395,3,3,3.0,7,245.45,153.64,4.62,140,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.3,35.06,https://www.airbnb.com/rooms/sample_98659,Shoulder
+Sample Property 3581,1,1,1.0,2,114.41,79.23,3.96,226,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.7,57.2,https://www.airbnb.com/rooms/sample_11815,Off-Peak
+Sample Property 1172,5,5,5.0,10,508.44,265.57,3.5,4,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.6,50.84,https://www.airbnb.com/rooms/sample_36714,Peak
+Sample Property 4880,4,5,4.0,10,380.68,209.17,3.69,19,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.6,38.07,https://www.airbnb.com/rooms/sample_50727,Peak
+Sample Property 3689,1,1,1.0,3,139.54,86.76,4.85,88,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.5,46.51,https://www.airbnb.com/rooms/sample_24625,Shoulder
+Sample Property 8645,4,4,3.0,9,391.93,206.76,4.25,137,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Southwest Bend, Bend, OR",4.8,43.55,https://www.airbnb.com/rooms/sample_26640,Peak
+Sample Property 4446,3,4,2.0,7,290.61,169.19,4.15,230,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.1,41.52,https://www.airbnb.com/rooms/sample_3386,Peak
+Sample Property 5566,5,7,4.0,12,338.77,235.67,4.73,52,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.7,28.23,https://www.airbnb.com/rooms/sample_57693,Shoulder
+Sample Property 3419,5,6,5.0,12,231.99,240.36,4.48,202,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.1,19.33,https://www.airbnb.com/rooms/sample_4043,Off-Peak
+Sample Property 2986,2,4,2.0,6,192.5,138.47,3.82,209,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",4.1,32.08,https://www.airbnb.com/rooms/sample_63746,Shoulder
+Sample Property 1048,2,3,2.0,6,135.24,110.5,4.01,176,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.7,22.54,https://www.airbnb.com/rooms/sample_3053,Off-Peak
+Sample Property 4727,2,3,2.0,5,115.8,132.98,4.4,46,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.1,23.16,https://www.airbnb.com/rooms/sample_82358,Off-Peak
+Sample Property 9677,3,4,2.0,7,217.81,149.8,3.65,247,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.3,31.12,https://www.airbnb.com/rooms/sample_61193,Shoulder
+Sample Property 1847,2,3,2.0,5,282.99,132.97,4.29,165,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.5,56.6,https://www.airbnb.com/rooms/sample_3321,Peak
+Sample Property 1726,3,3,2.0,6,333.77,188.49,4.53,41,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.1,55.63,https://www.airbnb.com/rooms/sample_20270,Peak
+Sample Property 5760,2,2,2.0,4,260.5,121.81,3.66,66,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.8,65.12,https://www.airbnb.com/rooms/sample_78930,Peak
+Sample Property 4549,2,3,2.0,6,259.04,126.62,3.81,258,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.0,43.17,https://www.airbnb.com/rooms/sample_59841,Peak
+Sample Property 5065,2,4,1.0,6,160.71,125.41,4.39,217,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Old Bend, Bend, OR",4.4,26.79,https://www.airbnb.com/rooms/sample_84362,Shoulder
+Sample Property 3096,3,4,2.0,8,121.69,167.08,4.84,175,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.5,15.21,https://www.airbnb.com/rooms/sample_65141,Off-Peak
+Sample Property 2849,4,4,4.0,10,226.69,191.61,4.27,127,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.7,22.67,https://www.airbnb.com/rooms/sample_96613,Off-Peak
+Sample Property 3431,5,5,4.0,11,274.46,254.15,3.58,46,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.5,24.95,https://www.airbnb.com/rooms/sample_56656,Off-Peak
+Sample Property 5271,4,6,4.0,8,188.97,204.74,4.51,58,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.2,23.62,https://www.airbnb.com/rooms/sample_10196,Off-Peak
+Sample Property 1540,2,4,2.0,6,255.72,143.13,4.15,246,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.1,42.62,https://www.airbnb.com/rooms/sample_68682,Peak
+Sample Property 8281,3,3,3.0,6,330.42,192.93,4.58,142,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.7,55.07,https://www.airbnb.com/rooms/sample_59474,Peak
+Sample Property 7713,2,2,2.0,6,146.38,131.58,3.51,195,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.2,24.4,https://www.airbnb.com/rooms/sample_37384,Off-Peak
+Sample Property 1541,4,5,3.0,8,379.87,201.51,3.82,28,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.1,47.48,https://www.airbnb.com/rooms/sample_6042,Peak
+Sample Property 3722,2,3,2.0,5,270.7,132.75,4.73,129,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.1,54.14,https://www.airbnb.com/rooms/sample_81900,Peak
+Sample Property 4895,2,3,2.0,5,133.18,123.76,3.76,161,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",5.0,26.64,https://www.airbnb.com/rooms/sample_67610,Off-Peak
+Sample Property 3032,1,2,1.0,2,152.56,87.54,4.57,10,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.1,76.28,https://www.airbnb.com/rooms/sample_98920,Shoulder
+Sample Property 3428,4,5,3.0,9,252.2,203.45,3.98,263,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.2,28.02,https://www.airbnb.com/rooms/sample_86297,Shoulder
+Sample Property 7170,3,3,3.0,8,258.08,175.19,4.18,169,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.1,32.26,https://www.airbnb.com/rooms/sample_78053,Shoulder
+Sample Property 7875,3,3,3.0,8,160.2,159.35,3.6,176,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.0,20.02,https://www.airbnb.com/rooms/sample_38507,Off-Peak
+Sample Property 3976,1,3,1.0,3,95.18,95.28,4.22,240,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.5,31.73,https://www.airbnb.com/rooms/sample_44248,Off-Peak
+Sample Property 5869,2,4,2.0,5,180.91,122.03,4.23,139,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.1,36.18,https://www.airbnb.com/rooms/sample_95336,Shoulder
+Sample Property 1078,2,2,2.0,4,116.17,136.88,4.2,268,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.1,29.04,https://www.airbnb.com/rooms/sample_18563,Off-Peak
+Sample Property 7794,2,4,1.0,6,182.11,119.45,3.93,128,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Old Bend, Bend, OR",4.9,30.35,https://www.airbnb.com/rooms/sample_57677,Shoulder
+Sample Property 1028,1,2,1.0,2,107.95,101.3,3.86,142,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.0,53.98,https://www.airbnb.com/rooms/sample_13504,Off-Peak
+Sample Property 5601,3,4,2.0,8,149.53,180.64,4.69,280,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Sunriver, OR",4.6,18.69,https://www.airbnb.com/rooms/sample_28562,Off-Peak
+Sample Property 4071,1,2,1.0,2,191.55,88.71,3.56,27,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.1,95.78,https://www.airbnb.com/rooms/sample_1780,Peak
+Sample Property 4998,3,5,2.0,7,115.46,180.84,4.36,93,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.5,16.49,https://www.airbnb.com/rooms/sample_24075,Off-Peak
+Sample Property 3739,1,2,1.0,2,137.44,84.46,4.31,19,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.7,68.72,https://www.airbnb.com/rooms/sample_68994,Shoulder
+Sample Property 1012,1,2,1.0,2,114.08,94.73,3.82,47,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.5,57.04,https://www.airbnb.com/rooms/sample_96517,Shoulder
+Sample Property 2438,2,3,2.0,4,200.79,120.99,3.81,103,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.7,50.2,https://www.airbnb.com/rooms/sample_55312,Shoulder
+Sample Property 1648,2,2,2.0,5,271.69,126.3,3.65,177,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.7,54.34,https://www.airbnb.com/rooms/sample_94193,Peak
+Sample Property 9719,5,6,4.0,10,215.11,252.5,4.18,28,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.1,21.51,https://www.airbnb.com/rooms/sample_89877,Off-Peak
+Sample Property 6906,1,3,1.0,4,50.0,97.83,4.7,76,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.8,12.5,https://www.airbnb.com/rooms/sample_71186,Off-Peak
+Sample Property 8875,1,1,1.0,2,192.7,113.92,4.97,10,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.5,96.35,https://www.airbnb.com/rooms/sample_85375,Peak
+Sample Property 9106,1,3,1.0,4,74.98,69.56,4.07,272,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.8,18.75,https://www.airbnb.com/rooms/sample_99977,Off-Peak
+Sample Property 2221,4,4,4.0,9,230.03,200.39,4.88,236,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.9,25.56,https://www.airbnb.com/rooms/sample_88878,Off-Peak
+Sample Property 4513,2,4,1.0,6,226.83,128.16,3.79,108,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.3,37.8,https://www.airbnb.com/rooms/sample_56948,Peak
+Sample Property 6021,2,3,1.0,4,247.38,118.14,3.67,234,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.8,61.84,https://www.airbnb.com/rooms/sample_92260,Peak
+Sample Property 4435,3,5,3.0,8,344.96,186.01,3.53,270,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.1,43.12,https://www.airbnb.com/rooms/sample_32827,Peak
+Sample Property 1561,2,4,2.0,5,266.43,125.21,3.54,201,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Summit West, Bend, OR",4.6,53.29,https://www.airbnb.com/rooms/sample_46158,Peak
+Sample Property 2109,4,6,4.0,8,196.46,214.16,4.24,150,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.5,24.56,https://www.airbnb.com/rooms/sample_32377,Off-Peak
+Sample Property 5607,3,5,3.0,6,172.94,164.78,4.05,94,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.9,28.82,https://www.airbnb.com/rooms/sample_770,Off-Peak
+Sample Property 8450,5,5,4.0,12,221.37,259.68,3.72,228,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",5.0,18.45,https://www.airbnb.com/rooms/sample_74703,Off-Peak
+Sample Property 7854,3,4,2.0,6,312.42,174.97,4.1,161,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.8,52.07,https://www.airbnb.com/rooms/sample_53020,Peak
+Sample Property 9067,3,4,2.0,7,161.69,176.75,4.03,260,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.2,23.1,https://www.airbnb.com/rooms/sample_94946,Off-Peak
+Sample Property 6609,4,6,3.0,10,274.58,213.03,4.67,111,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Larkspur, Bend, OR",4.0,27.46,https://www.airbnb.com/rooms/sample_13164,Shoulder
+Sample Property 2724,2,3,1.0,6,135.73,116.46,3.82,289,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.8,22.62,https://www.airbnb.com/rooms/sample_58409,Shoulder
+Sample Property 6193,5,6,5.0,11,474.19,248.57,4.1,146,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.8,43.11,https://www.airbnb.com/rooms/sample_37793,Peak
+Sample Property 7906,2,4,1.0,5,237.78,130.01,3.95,220,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.7,47.56,https://www.airbnb.com/rooms/sample_16609,Peak
+Sample Property 2259,2,3,1.0,6,135.48,125.97,4.31,236,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.7,22.58,https://www.airbnb.com/rooms/sample_96545,Off-Peak
+Sample Property 2777,5,5,4.0,10,256.24,241.44,4.93,83,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.7,25.62,https://www.airbnb.com/rooms/sample_35758,Off-Peak
+Sample Property 3869,2,3,1.0,6,151.24,134.15,4.26,295,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Southwest Bend, Bend, OR",4.8,25.21,https://www.airbnb.com/rooms/sample_3233,Shoulder
+Sample Property 1404,4,5,3.0,8,392.9,212.81,3.97,196,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.5,49.11,https://www.airbnb.com/rooms/sample_16449,Peak
+Sample Property 4083,4,4,4.0,9,417.7,215.67,4.81,176,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.5,46.41,https://www.airbnb.com/rooms/sample_92378,Peak
+Sample Property 4306,1,2,1.0,2,161.89,102.93,4.71,79,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.7,80.94,https://www.airbnb.com/rooms/sample_3642,Shoulder
+Sample Property 9281,5,7,5.0,12,369.25,264.91,4.31,232,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.8,30.77,https://www.airbnb.com/rooms/sample_56748,Shoulder
+Sample Property 9414,1,2,1.0,4,53.48,100.47,4.26,32,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.3,13.37,https://www.airbnb.com/rooms/sample_28616,Off-Peak
+Sample Property 1667,3,3,3.0,8,344.65,179.01,4.54,98,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",5.0,43.08,https://www.airbnb.com/rooms/sample_52773,Peak
+Sample Property 9047,2,3,1.0,4,153.2,133.59,4.34,154,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.9,38.3,https://www.airbnb.com/rooms/sample_21361,Shoulder
+Sample Property 9071,3,4,3.0,7,345.96,191.03,3.97,180,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.2,49.42,https://www.airbnb.com/rooms/sample_85436,Peak
+Sample Property 9593,4,6,4.0,10,276.96,197.5,4.7,5,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.1,27.7,https://www.airbnb.com/rooms/sample_26854,Shoulder
+Sample Property 1393,1,2,1.0,3,121.77,96.51,4.82,91,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.4,40.59,https://www.airbnb.com/rooms/sample_68922,Off-Peak
+Sample Property 7833,3,3,2.0,7,156.73,165.76,5.0,103,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.8,22.39,https://www.airbnb.com/rooms/sample_99271,Off-Peak
+Sample Property 9101,2,2,1.0,5,102.21,131.47,4.53,112,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Southwest Bend, Bend, OR",4.9,20.44,https://www.airbnb.com/rooms/sample_15188,Off-Peak
+Sample Property 8013,2,2,1.0,6,135.58,135.02,4.69,189,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.6,22.6,https://www.airbnb.com/rooms/sample_41832,Off-Peak
+Sample Property 5357,4,4,3.0,10,171.76,192.7,3.67,239,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.4,17.18,https://www.airbnb.com/rooms/sample_21169,Off-Peak
+Sample Property 9728,1,1,1.0,4,128.5,80.63,3.72,233,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",5.0,32.12,https://www.airbnb.com/rooms/sample_53016,Shoulder
+Sample Property 3276,3,3,2.0,8,292.12,156.95,3.58,79,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.5,36.52,https://www.airbnb.com/rooms/sample_95360,Peak
+Sample Property 1028,5,7,4.0,12,461.11,244.42,4.69,15,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.7,38.43,https://www.airbnb.com/rooms/sample_87676,Peak
+Sample Property 1572,3,5,2.0,6,146.6,167.08,3.83,102,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.1,24.43,https://www.airbnb.com/rooms/sample_38675,Off-Peak
+Sample Property 4808,4,5,3.0,8,394.87,189.07,4.34,114,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.8,49.36,https://www.airbnb.com/rooms/sample_46413,Peak
+Sample Property 1604,5,5,4.0,12,452.37,264.04,3.92,144,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.6,37.7,https://www.airbnb.com/rooms/sample_93956,Peak
+Sample Property 8846,4,5,3.0,8,168.97,191.47,3.51,269,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",5.0,21.12,https://www.airbnb.com/rooms/sample_48878,Off-Peak
+Sample Property 7256,4,4,3.0,10,297.59,203.78,4.21,288,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.4,29.76,https://www.airbnb.com/rooms/sample_89923,Shoulder
+Sample Property 3986,3,5,3.0,7,248.38,164.9,4.37,176,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.2,35.48,https://www.airbnb.com/rooms/sample_5753,Shoulder
+Sample Property 3934,2,3,1.0,6,118.43,132.43,4.8,185,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.1,19.74,https://www.airbnb.com/rooms/sample_37910,Off-Peak
+Sample Property 6061,1,1,1.0,4,139.84,70.79,4.23,105,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Sunriver, OR",4.3,34.96,https://www.airbnb.com/rooms/sample_20390,Shoulder
+Sample Property 6260,3,4,2.0,8,236.58,183.13,4.29,183,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.1,29.57,https://www.airbnb.com/rooms/sample_23228,Shoulder
+Sample Property 6322,2,3,2.0,6,183.89,132.68,4.12,115,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.9,30.65,https://www.airbnb.com/rooms/sample_21391,Shoulder
+Sample Property 3653,2,3,1.0,4,91.24,130.72,3.7,64,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Sunriver, OR",4.3,22.81,https://www.airbnb.com/rooms/sample_97428,Off-Peak
+Sample Property 1864,5,7,5.0,12,275.92,245.33,4.47,291,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Larkspur, Bend, OR",4.1,22.99,https://www.airbnb.com/rooms/sample_46541,Off-Peak
+Sample Property 2834,5,6,4.0,11,242.04,255.24,4.28,185,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Seventh Mountain, Bend, OR",4.7,22.0,https://www.airbnb.com/rooms/sample_55284,Off-Peak
+Sample Property 2439,2,4,1.0,5,152.69,120.08,4.58,55,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.3,30.54,https://www.airbnb.com/rooms/sample_78200,Shoulder
+Sample Property 1556,4,6,4.0,9,250.27,215.62,3.65,104,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Sunriver, OR",4.1,27.81,https://www.airbnb.com/rooms/sample_19623,Off-Peak
+Sample Property 1370,1,2,1.0,3,183.51,81.66,3.61,210,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.6,61.17,https://www.airbnb.com/rooms/sample_76350,Shoulder
+Sample Property 2667,5,5,5.0,11,344.8,247.79,4.5,76,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.2,31.35,https://www.airbnb.com/rooms/sample_6850,Shoulder
+Sample Property 1832,1,2,1.0,2,133.57,101.32,4.82,187,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.7,66.78,https://www.airbnb.com/rooms/sample_75258,Shoulder
+Sample Property 4262,1,3,1.0,4,171.59,85.77,4.2,224,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.3,42.9,https://www.airbnb.com/rooms/sample_50618,Peak
+Sample Property 4541,4,4,4.0,9,426.73,219.15,4.41,103,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",4.3,47.41,https://www.airbnb.com/rooms/sample_38410,Peak
+Sample Property 7035,2,4,1.0,4,190.02,130.34,4.81,104,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Southwest Bend, Bend, OR",4.6,47.51,https://www.airbnb.com/rooms/sample_92477,Peak
+Sample Property 1539,2,3,1.0,4,207.89,138.67,4.94,108,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.1,51.97,https://www.airbnb.com/rooms/sample_36491,Peak
+Sample Property 7458,4,5,3.0,10,304.06,215.24,3.77,197,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",4.8,30.41,https://www.airbnb.com/rooms/sample_17353,Shoulder
+Sample Property 4531,2,2,2.0,5,285.09,133.96,4.28,42,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.8,57.02,https://www.airbnb.com/rooms/sample_32450,Peak
+Sample Property 4185,2,2,2.0,5,211.85,130.23,4.09,165,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",5.0,42.37,https://www.airbnb.com/rooms/sample_66325,Shoulder
+Sample Property 7902,2,2,1.0,5,73.56,131.77,4.17,195,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.7,14.71,https://www.airbnb.com/rooms/sample_97009,Off-Peak
+Sample Property 6909,5,7,4.0,11,339.92,251.97,4.81,158,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.3,30.9,https://www.airbnb.com/rooms/sample_72205,Shoulder
+Sample Property 3463,1,2,1.0,2,162.97,90.06,4.01,296,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.3,81.48,https://www.airbnb.com/rooms/sample_92265,Peak
+Sample Property 8848,1,1,1.0,4,133.77,102.29,4.85,273,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.5,33.44,https://www.airbnb.com/rooms/sample_11295,Shoulder
+Sample Property 6255,2,3,1.0,5,216.28,123.83,4.47,235,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.8,43.26,https://www.airbnb.com/rooms/sample_78323,Peak
+Sample Property 7791,1,2,1.0,2,155.29,105.23,4.51,171,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.9,77.64,https://www.airbnb.com/rooms/sample_81755,Peak
+Sample Property 9297,5,7,5.0,10,519.52,263.99,3.64,274,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Old Bend, Bend, OR",4.0,51.95,https://www.airbnb.com/rooms/sample_33013,Peak
+Sample Property 6487,2,3,1.0,5,134.04,153.49,3.57,32,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.7,26.81,https://www.airbnb.com/rooms/sample_36143,Off-Peak
+Sample Property 8631,2,2,1.0,6,192.49,129.18,4.12,176,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.5,32.08,https://www.airbnb.com/rooms/sample_1313,Shoulder
+Sample Property 3877,3,5,2.0,8,167.22,172.9,4.12,270,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.5,20.9,https://www.airbnb.com/rooms/sample_50763,Off-Peak
+Sample Property 9853,5,7,4.0,10,242.75,241.73,4.3,280,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.3,24.27,https://www.airbnb.com/rooms/sample_19511,Off-Peak
+Sample Property 6221,5,5,4.0,11,454.26,242.16,3.74,291,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.9,41.3,https://www.airbnb.com/rooms/sample_36913,Peak
+Sample Property 5366,1,3,1.0,4,208.92,80.01,4.3,75,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Summit West, Bend, OR",4.0,52.23,https://www.airbnb.com/rooms/sample_69673,Peak
+Sample Property 6310,2,3,2.0,6,275.01,121.5,4.79,140,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Summit West, Bend, OR",4.7,45.84,https://www.airbnb.com/rooms/sample_10436,Peak
+Sample Property 8819,1,3,1.0,2,63.28,111.36,4.88,93,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.3,31.64,https://www.airbnb.com/rooms/sample_5913,Off-Peak
+Sample Property 5784,3,3,2.0,7,261.53,162.61,4.69,208,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.5,37.36,https://www.airbnb.com/rooms/sample_24723,Shoulder
+Sample Property 2721,1,2,1.0,3,97.96,87.48,4.19,206,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.1,32.65,https://www.airbnb.com/rooms/sample_21687,Off-Peak
+Sample Property 1909,3,4,2.0,8,226.03,170.14,3.61,92,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.6,28.25,https://www.airbnb.com/rooms/sample_61265,Shoulder
+Sample Property 8464,4,6,4.0,9,284.59,219.48,4.99,72,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.1,31.62,https://www.airbnb.com/rooms/sample_13740,Shoulder
+Sample Property 4653,2,4,2.0,5,104.31,138.82,3.51,52,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.2,20.86,https://www.airbnb.com/rooms/sample_21535,Off-Peak
+Sample Property 6873,2,2,1.0,5,154.77,136.89,4.53,212,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.8,30.95,https://www.airbnb.com/rooms/sample_14729,Shoulder
+Sample Property 5537,2,2,1.0,6,231.89,119.52,3.62,160,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.3,38.65,https://www.airbnb.com/rooms/sample_68050,Peak
+Sample Property 1179,2,3,1.0,5,185.93,141.79,3.57,162,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.1,37.19,https://www.airbnb.com/rooms/sample_56096,Shoulder
+Sample Property 7802,4,6,4.0,10,216.53,222.41,4.28,270,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.7,21.65,https://www.airbnb.com/rooms/sample_11174,Off-Peak
+Sample Property 4770,2,3,1.0,4,168.98,130.83,4.19,185,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.9,42.24,https://www.airbnb.com/rooms/sample_90899,Shoulder
+Sample Property 6392,5,7,4.0,12,470.15,235.21,4.97,60,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.5,39.18,https://www.airbnb.com/rooms/sample_96579,Peak
+Sample Property 8407,2,2,2.0,4,145.93,137.96,4.72,195,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.7,36.48,https://www.airbnb.com/rooms/sample_61359,Off-Peak
+Sample Property 5382,2,4,1.0,5,218.72,115.06,4.13,230,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.5,43.74,https://www.airbnb.com/rooms/sample_82601,Peak
+Sample Property 4413,4,6,4.0,8,412.0,202.55,3.88,220,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.9,51.5,https://www.airbnb.com/rooms/sample_78098,Peak
+Sample Property 3107,3,3,3.0,8,129.61,175.49,3.71,269,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.8,16.2,https://www.airbnb.com/rooms/sample_15168,Off-Peak
+Sample Property 5302,4,5,3.0,10,194.39,203.14,3.74,3,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",4.3,19.44,https://www.airbnb.com/rooms/sample_96214,Off-Peak
+Sample Property 5725,3,4,3.0,7,241.8,180.82,4.11,213,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.2,34.54,https://www.airbnb.com/rooms/sample_25458,Shoulder
+Sample Property 4988,4,5,3.0,10,394.19,204.39,3.64,256,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.1,39.42,https://www.airbnb.com/rooms/sample_97244,Peak
+Sample Property 5151,1,1,1.0,2,144.62,93.67,4.76,68,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",4.1,72.31,https://www.airbnb.com/rooms/sample_65793,Peak
+Sample Property 2975,2,3,2.0,4,222.82,116.44,4.45,60,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.9,55.7,https://www.airbnb.com/rooms/sample_72323,Shoulder
+Sample Property 5943,3,3,2.0,6,310.59,175.17,3.9,147,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.4,51.76,https://www.airbnb.com/rooms/sample_11352,Peak
+Sample Property 3108,1,2,1.0,2,153.58,85.6,4.61,218,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",4.2,76.79,https://www.airbnb.com/rooms/sample_12003,Peak
+Sample Property 1382,5,5,4.0,10,378.29,250.36,4.14,226,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.7,37.83,https://www.airbnb.com/rooms/sample_46875,Shoulder
+Sample Property 5217,5,6,5.0,12,510.2,243.51,3.76,153,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Larkspur, Bend, OR",4.5,42.52,https://www.airbnb.com/rooms/sample_97124,Peak
+Sample Property 2025,3,3,2.0,6,364.06,167.69,4.28,71,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.1,60.68,https://www.airbnb.com/rooms/sample_15832,Peak
+Sample Property 5711,3,4,2.0,6,229.67,161.57,4.67,60,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.3,38.28,https://www.airbnb.com/rooms/sample_53025,Shoulder
+Sample Property 3666,3,3,2.0,8,317.01,157.55,4.72,122,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.3,39.63,https://www.airbnb.com/rooms/sample_31569,Peak
+Sample Property 6890,4,6,3.0,9,398.12,236.21,4.96,182,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.4,44.24,https://www.airbnb.com/rooms/sample_82477,Peak
+Sample Property 1671,4,4,4.0,10,201.69,217.52,4.57,231,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.7,20.17,https://www.airbnb.com/rooms/sample_65140,Off-Peak
+Sample Property 1500,3,3,2.0,8,212.99,176.98,4.15,58,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.2,26.62,https://www.airbnb.com/rooms/sample_49753,Shoulder
+Sample Property 5482,1,1,1.0,3,187.21,80.89,4.76,232,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.1,62.4,https://www.airbnb.com/rooms/sample_12501,Peak
+Sample Property 4218,2,2,1.0,6,142.92,146.72,4.99,277,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.4,23.82,https://www.airbnb.com/rooms/sample_4240,Shoulder
+Sample Property 7468,1,1,1.0,2,145.33,98.68,3.56,79,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.5,72.67,https://www.airbnb.com/rooms/sample_38986,Shoulder
+Sample Property 5562,1,3,1.0,4,90.53,89.47,4.24,224,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",5.0,22.63,https://www.airbnb.com/rooms/sample_14909,Off-Peak
+Sample Property 2631,4,6,3.0,10,405.96,191.27,3.62,262,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",5.0,40.6,https://www.airbnb.com/rooms/sample_58831,Peak
+Sample Property 3819,4,5,4.0,8,407.15,216.84,3.88,160,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.5,50.89,https://www.airbnb.com/rooms/sample_17791,Peak
+Sample Property 3690,2,4,1.0,5,129.92,123.22,3.99,217,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.4,25.98,https://www.airbnb.com/rooms/sample_57731,Off-Peak
+Sample Property 6778,2,2,1.0,4,108.0,127.97,4.75,202,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.8,27.0,https://www.airbnb.com/rooms/sample_91208,Off-Peak
+Sample Property 4561,2,2,2.0,4,262.69,123.52,4.62,220,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.3,65.67,https://www.airbnb.com/rooms/sample_64596,Peak
+Sample Property 5268,3,5,3.0,7,323.75,191.05,3.85,127,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.6,46.25,https://www.airbnb.com/rooms/sample_27207,Peak
+Sample Property 1544,1,3,1.0,2,148.72,68.46,4.62,191,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.9,74.36,https://www.airbnb.com/rooms/sample_27051,Shoulder
+Sample Property 9399,3,3,2.0,8,194.83,173.93,4.6,122,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.8,24.35,https://www.airbnb.com/rooms/sample_56912,Off-Peak
+Sample Property 8028,2,2,1.0,4,95.03,135.19,3.97,110,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.2,23.76,https://www.airbnb.com/rooms/sample_45803,Off-Peak
+Sample Property 1656,5,7,4.0,10,228.58,234.14,4.89,268,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.2,22.86,https://www.airbnb.com/rooms/sample_42723,Off-Peak
+Sample Property 7182,1,1,1.0,3,198.1,88.66,4.37,172,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.8,66.03,https://www.airbnb.com/rooms/sample_91111,Peak
+Sample Property 4683,2,2,2.0,6,127.32,125.78,4.23,257,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.9,21.22,https://www.airbnb.com/rooms/sample_27819,Off-Peak
+Sample Property 7010,5,7,5.0,10,494.42,270.53,4.77,215,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.3,49.44,https://www.airbnb.com/rooms/sample_77062,Peak
+Sample Property 4148,1,3,1.0,2,82.74,98.54,3.76,46,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.5,41.37,https://www.airbnb.com/rooms/sample_19978,Off-Peak
+Sample Property 7338,1,1,1.0,2,164.29,111.0,3.64,295,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.9,82.14,https://www.airbnb.com/rooms/sample_38035,Shoulder
+Sample Property 4235,3,5,3.0,6,289.15,162.29,3.9,76,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.6,48.19,https://www.airbnb.com/rooms/sample_14440,Shoulder
+Sample Property 4080,4,6,3.0,10,199.51,225.79,3.55,205,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.1,19.95,https://www.airbnb.com/rooms/sample_77079,Off-Peak
+Sample Property 5114,3,4,2.0,7,310.67,173.03,3.77,21,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.7,44.38,https://www.airbnb.com/rooms/sample_46515,Peak
+Sample Property 6876,3,4,2.0,8,171.74,166.46,4.87,58,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.2,21.47,https://www.airbnb.com/rooms/sample_95194,Off-Peak
+Sample Property 4659,3,4,3.0,7,360.82,157.35,4.53,232,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.6,51.55,https://www.airbnb.com/rooms/sample_26798,Peak
+Sample Property 1187,1,1,1.0,3,137.9,82.13,4.8,198,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.1,45.97,https://www.airbnb.com/rooms/sample_20567,Shoulder
+Sample Property 6220,5,6,5.0,10,265.04,241.86,4.7,162,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.6,26.5,https://www.airbnb.com/rooms/sample_41788,Off-Peak
+Sample Property 9635,3,4,2.0,6,336.55,192.09,4.93,233,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.0,56.09,https://www.airbnb.com/rooms/sample_79302,Peak
+Sample Property 9235,1,3,1.0,2,194.49,94.48,4.77,230,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.4,97.25,https://www.airbnb.com/rooms/sample_94239,Peak
+Sample Property 3015,5,7,4.0,11,355.37,258.72,4.93,225,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.9,32.31,https://www.airbnb.com/rooms/sample_75852,Shoulder
+Sample Property 8902,3,5,3.0,6,320.3,167.51,3.81,165,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.2,53.38,https://www.airbnb.com/rooms/sample_76096,Peak
+Sample Property 5023,1,2,1.0,2,120.46,88.98,4.73,255,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.1,60.23,https://www.airbnb.com/rooms/sample_64681,Shoulder
+Sample Property 2391,2,2,2.0,6,140.75,128.51,4.11,231,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.3,23.46,https://www.airbnb.com/rooms/sample_82666,Shoulder
+Sample Property 4718,5,5,4.0,11,262.43,254.95,4.91,2,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.7,23.86,https://www.airbnb.com/rooms/sample_23556,Off-Peak
+Sample Property 3590,1,2,1.0,3,109.68,91.26,4.24,206,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Summit West, Bend, OR",4.4,36.56,https://www.airbnb.com/rooms/sample_57200,Off-Peak
+Sample Property 2995,1,1,1.0,4,203.99,89.68,3.89,162,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Summit West, Bend, OR",4.3,51.0,https://www.airbnb.com/rooms/sample_8525,Peak
+Sample Property 5330,4,4,4.0,8,311.32,185.12,4.5,138,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.6,38.91,https://www.airbnb.com/rooms/sample_45469,Shoulder
+Sample Property 2909,2,4,2.0,6,156.65,139.29,3.62,50,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.1,26.11,https://www.airbnb.com/rooms/sample_17141,Off-Peak
+Sample Property 1444,1,2,1.0,2,160.33,88.6,4.04,279,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Southwest Bend, Bend, OR",4.2,80.17,https://www.airbnb.com/rooms/sample_497,Peak
+Sample Property 1658,4,4,3.0,9,267.96,223.01,3.59,37,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.9,29.77,https://www.airbnb.com/rooms/sample_68423,Shoulder
+Sample Property 2316,3,4,2.0,8,322.88,171.54,4.97,114,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.0,40.36,https://www.airbnb.com/rooms/sample_7943,Peak
+Sample Property 5292,5,5,5.0,10,518.4,260.19,3.82,90,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.5,51.84,https://www.airbnb.com/rooms/sample_51469,Peak
+Sample Property 9907,5,7,5.0,11,351.18,256.79,4.41,177,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.2,31.93,https://www.airbnb.com/rooms/sample_27844,Shoulder
+Sample Property 5087,1,2,1.0,2,77.67,92.86,4.35,275,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.1,38.84,https://www.airbnb.com/rooms/sample_14926,Off-Peak
+Sample Property 7686,4,4,4.0,10,177.72,202.04,3.91,20,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.3,17.77,https://www.airbnb.com/rooms/sample_62410,Off-Peak
+Sample Property 8238,5,5,4.0,12,224.66,256.19,4.71,242,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",4.8,18.72,https://www.airbnb.com/rooms/sample_494,Off-Peak
+Sample Property 1761,3,4,2.0,8,141.85,170.49,3.56,270,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.7,17.73,https://www.airbnb.com/rooms/sample_70691,Off-Peak
+Sample Property 4675,1,3,1.0,2,190.3,92.57,4.1,135,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.9,95.15,https://www.airbnb.com/rooms/sample_36164,Peak
+Sample Property 8507,4,5,4.0,10,433.48,204.49,4.36,74,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.7,43.35,https://www.airbnb.com/rooms/sample_83031,Peak
+Sample Property 2750,1,2,1.0,3,150.22,90.58,4.04,264,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.7,50.07,https://www.airbnb.com/rooms/sample_61537,Shoulder
+Sample Property 1770,2,3,1.0,4,93.41,131.8,3.62,124,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.2,23.35,https://www.airbnb.com/rooms/sample_13274,Off-Peak
+Sample Property 9419,2,3,2.0,6,193.41,135.09,4.61,244,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.0,32.23,https://www.airbnb.com/rooms/sample_5742,Shoulder
+Sample Property 8441,4,6,3.0,10,294.84,197.14,4.98,84,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.3,29.48,https://www.airbnb.com/rooms/sample_17822,Shoulder
+Sample Property 7629,5,7,4.0,10,406.19,258.07,4.96,196,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.3,40.62,https://www.airbnb.com/rooms/sample_14589,Shoulder
+Sample Property 9457,1,1,1.0,4,54.84,74.72,4.06,112,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.9,13.71,https://www.airbnb.com/rooms/sample_54079,Off-Peak
+Sample Property 5677,1,3,1.0,3,146.45,81.39,4.1,271,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.5,48.82,https://www.airbnb.com/rooms/sample_97137,Shoulder
+Sample Property 1442,1,1,1.0,3,92.7,86.74,4.43,27,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.3,30.9,https://www.airbnb.com/rooms/sample_2940,Off-Peak
+Sample Property 9720,1,2,1.0,2,119.68,85.39,4.9,121,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.1,59.84,https://www.airbnb.com/rooms/sample_25906,Shoulder
+Sample Property 7044,5,6,4.0,11,257.82,238.2,4.53,79,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.4,23.44,https://www.airbnb.com/rooms/sample_83109,Off-Peak
+Sample Property 8991,5,6,5.0,11,483.01,245.17,4.89,251,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Seventh Mountain, Bend, OR",4.1,43.91,https://www.airbnb.com/rooms/sample_68307,Peak
+Sample Property 3822,2,4,1.0,4,225.12,132.95,3.87,270,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.4,56.28,https://www.airbnb.com/rooms/sample_38139,Peak
+Sample Property 5861,3,4,2.0,8,240.55,183.21,4.16,58,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.0,30.07,https://www.airbnb.com/rooms/sample_17635,Shoulder
+Sample Property 7436,1,2,1.0,3,114.55,77.9,4.39,290,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",5.0,38.18,https://www.airbnb.com/rooms/sample_83730,Off-Peak
+Sample Property 7711,2,2,1.0,5,197.87,134.91,4.25,58,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.3,39.57,https://www.airbnb.com/rooms/sample_37450,Shoulder
+Sample Property 1713,4,4,3.0,8,194.55,223.57,4.83,175,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Southwest Bend, Bend, OR",4.4,24.32,https://www.airbnb.com/rooms/sample_80225,Off-Peak
+Sample Property 4708,2,2,1.0,4,190.41,112.6,4.16,249,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",5.0,47.6,https://www.airbnb.com/rooms/sample_11826,Shoulder
+Sample Property 9065,4,4,4.0,8,240.81,222.55,3.81,105,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.0,30.1,https://www.airbnb.com/rooms/sample_17046,Off-Peak
+Sample Property 4897,3,5,2.0,8,233.48,170.12,4.41,121,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.7,29.18,https://www.airbnb.com/rooms/sample_34284,Shoulder
+Sample Property 5759,3,5,3.0,7,151.37,176.82,4.85,39,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.8,21.62,https://www.airbnb.com/rooms/sample_51053,Off-Peak
+Sample Property 1815,2,3,2.0,6,216.17,113.85,4.33,218,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.9,36.03,https://www.airbnb.com/rooms/sample_61808,Shoulder
+Sample Property 8248,4,6,3.0,8,291.72,222.68,3.8,234,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.2,36.47,https://www.airbnb.com/rooms/sample_42688,Shoulder
+Sample Property 9774,1,2,1.0,2,94.97,90.8,3.67,64,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.7,47.48,https://www.airbnb.com/rooms/sample_77923,Off-Peak
+Sample Property 3577,2,3,1.0,5,147.6,130.01,3.99,139,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.7,29.52,https://www.airbnb.com/rooms/sample_87232,Shoulder
+Sample Property 8843,5,5,4.0,12,338.07,255.48,4.38,220,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.5,28.17,https://www.airbnb.com/rooms/sample_70826,Shoulder
+Sample Property 4621,5,5,4.0,11,471.22,233.78,4.28,195,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.5,42.84,https://www.airbnb.com/rooms/sample_4924,Peak
+Sample Property 1607,2,4,1.0,6,162.35,106.98,4.86,122,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.7,27.06,https://www.airbnb.com/rooms/sample_98893,Shoulder
+Sample Property 6594,1,1,1.0,3,172.06,89.59,4.5,206,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Summit West, Bend, OR",4.7,57.35,https://www.airbnb.com/rooms/sample_78617,Peak
+Sample Property 7999,2,2,1.0,5,98.82,120.58,4.45,242,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.2,19.76,https://www.airbnb.com/rooms/sample_86104,Off-Peak
+Sample Property 3292,1,1,1.0,2,223.62,95.14,3.88,230,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.0,111.81,https://www.airbnb.com/rooms/sample_25569,Peak
+Sample Property 4065,4,5,3.0,8,395.13,230.13,4.48,28,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.9,49.39,https://www.airbnb.com/rooms/sample_21519,Peak
+Sample Property 7487,4,4,4.0,8,411.9,217.01,4.33,258,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.7,51.49,https://www.airbnb.com/rooms/sample_90299,Peak
+Sample Property 3999,5,5,5.0,11,510.41,239.2,4.79,38,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",5.0,46.4,https://www.airbnb.com/rooms/sample_88914,Peak
+Sample Property 2478,3,5,3.0,6,182.17,181.08,4.31,7,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.7,30.36,https://www.airbnb.com/rooms/sample_46105,Off-Peak
+Sample Property 5412,5,7,5.0,12,460.73,254.61,3.93,52,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.6,38.39,https://www.airbnb.com/rooms/sample_55782,Peak
+Sample Property 4823,3,5,2.0,7,204.86,154.4,4.87,48,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.7,29.27,https://www.airbnb.com/rooms/sample_69135,Shoulder
+Sample Property 6688,2,4,1.0,6,212.32,148.0,4.82,42,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.9,35.39,https://www.airbnb.com/rooms/sample_43979,Peak
+Sample Property 7900,1,1,1.0,3,148.19,85.77,3.76,211,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.3,49.4,https://www.airbnb.com/rooms/sample_84580,Shoulder
+Sample Property 6806,1,1,1.0,4,91.59,106.0,3.96,258,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.7,22.9,https://www.airbnb.com/rooms/sample_51365,Off-Peak
+Sample Property 6913,1,1,1.0,3,134.99,88.96,4.79,265,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.2,45.0,https://www.airbnb.com/rooms/sample_97273,Shoulder
+Sample Property 3611,2,2,2.0,6,284.04,130.09,4.75,95,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.3,47.34,https://www.airbnb.com/rooms/sample_80147,Peak
+Sample Property 2417,2,3,2.0,4,277.8,123.93,4.26,110,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.4,69.45,https://www.airbnb.com/rooms/sample_87053,Peak
+Sample Property 3196,1,1,1.0,3,101.31,106.17,3.8,185,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.4,33.77,https://www.airbnb.com/rooms/sample_92020,Shoulder
+Sample Property 9179,2,3,2.0,5,185.68,129.12,4.9,9,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",4.8,37.14,https://www.airbnb.com/rooms/sample_40986,Shoulder
+Sample Property 6604,2,4,1.0,6,169.04,125.64,4.86,268,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Sunriver, OR",4.3,28.17,https://www.airbnb.com/rooms/sample_26652,Shoulder
+Sample Property 3343,3,4,2.0,8,226.49,156.99,4.69,129,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.4,28.31,https://www.airbnb.com/rooms/sample_84423,Shoulder
+Sample Property 1107,4,6,4.0,8,187.59,202.45,4.26,90,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.7,23.45,https://www.airbnb.com/rooms/sample_3810,Off-Peak
+Sample Property 5971,4,5,3.0,8,218.12,220.52,4.08,203,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.7,27.27,https://www.airbnb.com/rooms/sample_48792,Off-Peak
+Sample Property 5615,2,4,2.0,6,259.05,132.1,4.14,110,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.7,43.18,https://www.airbnb.com/rooms/sample_57804,Peak
+Sample Property 7096,1,3,1.0,4,155.22,98.48,3.76,53,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.4,38.8,https://www.airbnb.com/rooms/sample_79783,Shoulder
+Sample Property 2620,5,6,4.0,12,220.92,251.48,4.1,46,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.6,18.41,https://www.airbnb.com/rooms/sample_14860,Off-Peak
+Sample Property 9243,5,6,5.0,10,231.97,245.93,3.98,52,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.1,23.2,https://www.airbnb.com/rooms/sample_85983,Off-Peak
+Sample Property 7163,5,7,4.0,11,516.59,251.68,4.11,193,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.2,46.96,https://www.airbnb.com/rooms/sample_48349,Peak
+Sample Property 3180,3,4,2.0,8,172.58,174.81,4.28,33,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Sunriver, OR",4.0,21.57,https://www.airbnb.com/rooms/sample_81068,Off-Peak
+Sample Property 7679,1,1,1.0,2,98.23,98.98,4.99,215,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.4,49.12,https://www.airbnb.com/rooms/sample_62752,Shoulder
+Sample Property 3365,5,5,4.0,10,384.46,243.53,4.67,102,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.8,38.45,https://www.airbnb.com/rooms/sample_49397,Shoulder
+Sample Property 8849,1,1,1.0,2,86.09,87.67,4.49,120,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.5,43.05,https://www.airbnb.com/rooms/sample_9229,Off-Peak
+Sample Property 5840,1,1,1.0,3,171.86,76.36,4.18,250,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Seventh Mountain, Bend, OR",4.0,57.29,https://www.airbnb.com/rooms/sample_37390,Shoulder
+Sample Property 1510,5,7,4.0,12,490.18,264.09,3.7,174,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.6,40.85,https://www.airbnb.com/rooms/sample_74443,Peak
+Sample Property 5457,3,5,2.0,8,240.71,156.22,4.91,96,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.7,30.09,https://www.airbnb.com/rooms/sample_74470,Shoulder
+Sample Property 1883,4,4,4.0,9,314.9,213.99,3.71,199,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.9,34.99,https://www.airbnb.com/rooms/sample_8121,Shoulder
+Sample Property 2308,2,2,1.0,6,147.16,143.53,4.44,40,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.2,24.53,https://www.airbnb.com/rooms/sample_76216,Off-Peak
+Sample Property 8919,2,3,2.0,4,255.72,142.52,4.79,292,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.6,63.93,https://www.airbnb.com/rooms/sample_56407,Peak
+Sample Property 7437,1,3,1.0,4,167.77,84.93,4.41,253,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.7,41.94,https://www.airbnb.com/rooms/sample_7905,Peak
+Sample Property 7227,2,4,1.0,4,111.01,134.36,3.92,279,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.9,27.75,https://www.airbnb.com/rooms/sample_93410,Off-Peak
+Sample Property 8546,2,3,2.0,5,182.71,135.69,4.18,249,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.8,36.54,https://www.airbnb.com/rooms/sample_64649,Shoulder
+Sample Property 6608,3,5,3.0,6,310.31,163.29,4.54,251,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Southwest Bend, Bend, OR",4.3,51.72,https://www.airbnb.com/rooms/sample_71881,Peak
+Sample Property 8540,1,2,1.0,4,146.17,88.44,4.38,178,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Larkspur, Bend, OR",4.3,36.54,https://www.airbnb.com/rooms/sample_27468,Shoulder
+Sample Property 7862,5,5,5.0,10,266.57,239.12,4.45,16,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.2,26.66,https://www.airbnb.com/rooms/sample_29765,Off-Peak
+Sample Property 7042,1,2,1.0,3,192.86,92.47,4.66,5,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.7,64.29,https://www.airbnb.com/rooms/sample_22579,Peak
+Sample Property 3243,3,5,2.0,8,185.15,173.54,4.71,61,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.3,23.14,https://www.airbnb.com/rooms/sample_6554,Shoulder
+Sample Property 8069,3,3,3.0,7,153.19,176.87,3.97,277,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.7,21.88,https://www.airbnb.com/rooms/sample_89910,Off-Peak
+Sample Property 5661,2,2,1.0,5,101.45,126.65,3.97,118,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.9,20.29,https://www.airbnb.com/rooms/sample_38295,Off-Peak
+Sample Property 1619,3,5,3.0,6,243.94,178.02,3.55,264,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.5,40.66,https://www.airbnb.com/rooms/sample_54699,Shoulder
+Sample Property 3655,3,5,2.0,8,235.99,173.68,4.69,226,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.1,29.5,https://www.airbnb.com/rooms/sample_99277,Shoulder
+Sample Property 6588,5,7,5.0,11,269.51,252.65,4.81,187,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.8,24.5,https://www.airbnb.com/rooms/sample_82502,Off-Peak
+Sample Property 1400,4,6,4.0,10,306.71,202.76,4.7,68,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.5,30.67,https://www.airbnb.com/rooms/sample_88679,Shoulder
+Sample Property 8470,3,3,3.0,7,269.46,190.56,4.83,221,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",5.0,38.49,https://www.airbnb.com/rooms/sample_4301,Shoulder
+Sample Property 7793,3,4,2.0,8,235.33,186.74,4.66,96,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.8,29.42,https://www.airbnb.com/rooms/sample_82971,Shoulder
+Sample Property 9167,2,3,1.0,5,149.79,130.85,4.03,228,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.2,29.96,https://www.airbnb.com/rooms/sample_92322,Off-Peak
+Sample Property 6936,2,2,1.0,4,149.72,136.14,3.86,161,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.3,37.43,https://www.airbnb.com/rooms/sample_27921,Shoulder
+Sample Property 5916,4,6,4.0,9,304.17,202.25,3.9,23,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.3,33.8,https://www.airbnb.com/rooms/sample_57347,Shoulder
+Sample Property 2141,5,6,5.0,12,336.65,235.29,3.77,33,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.2,28.05,https://www.airbnb.com/rooms/sample_36777,Shoulder
+Sample Property 3398,5,5,5.0,12,389.38,268.2,4.82,291,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.4,32.45,https://www.airbnb.com/rooms/sample_44654,Shoulder
+Sample Property 7632,2,4,1.0,5,189.17,131.69,4.69,287,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.9,37.83,https://www.airbnb.com/rooms/sample_57772,Shoulder
+Sample Property 3058,2,4,1.0,4,116.82,99.48,4.84,218,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.1,29.2,https://www.airbnb.com/rooms/sample_71836,Off-Peak
+Sample Property 1881,3,4,2.0,8,215.83,166.4,4.54,34,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.2,26.98,https://www.airbnb.com/rooms/sample_32927,Shoulder
+Sample Property 8803,4,4,3.0,8,191.88,209.35,4.58,110,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",4.8,23.98,https://www.airbnb.com/rooms/sample_15910,Off-Peak
+Sample Property 8630,3,5,3.0,7,247.89,184.81,3.77,127,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",5.0,35.41,https://www.airbnb.com/rooms/sample_75258,Shoulder
+Sample Property 4909,2,3,1.0,4,145.8,138.69,4.84,37,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Southwest Bend, Bend, OR",4.9,36.45,https://www.airbnb.com/rooms/sample_51433,Shoulder
+Sample Property 1465,4,4,3.0,9,253.86,217.24,4.36,68,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.9,28.21,https://www.airbnb.com/rooms/sample_61924,Off-Peak
+Sample Property 9287,1,1,1.0,2,168.48,90.35,4.65,277,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.3,84.24,https://www.airbnb.com/rooms/sample_35110,Shoulder
+Sample Property 6127,3,3,3.0,7,369.9,169.63,4.47,26,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",5.0,52.84,https://www.airbnb.com/rooms/sample_87939,Peak
+Sample Property 2440,3,4,3.0,7,231.69,154.89,4.16,284,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Summit West, Bend, OR",4.7,33.1,https://www.airbnb.com/rooms/sample_87484,Shoulder
+Sample Property 9792,5,6,4.0,11,361.91,269.72,4.21,130,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.8,32.9,https://www.airbnb.com/rooms/sample_50305,Shoulder
+Sample Property 6977,1,1,1.0,4,102.65,84.67,3.62,186,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.7,25.66,https://www.airbnb.com/rooms/sample_9115,Off-Peak
+Sample Property 3612,3,3,2.0,6,243.38,175.33,4.69,95,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.1,40.56,https://www.airbnb.com/rooms/sample_30541,Shoulder
+Sample Property 8686,4,6,3.0,10,184.91,211.28,4.87,66,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.9,18.49,https://www.airbnb.com/rooms/sample_90725,Off-Peak
+Sample Property 4587,1,3,1.0,3,184.69,105.66,4.23,175,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.8,61.56,https://www.airbnb.com/rooms/sample_49855,Peak
+Sample Property 2878,1,3,1.0,2,94.05,74.43,4.26,19,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.9,47.02,https://www.airbnb.com/rooms/sample_22797,Off-Peak
+Sample Property 7412,3,4,2.0,7,171.15,170.33,4.92,58,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.1,24.45,https://www.airbnb.com/rooms/sample_57733,Off-Peak
+Sample Property 1763,2,4,2.0,4,229.68,136.72,3.5,111,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.0,57.42,https://www.airbnb.com/rooms/sample_97897,Shoulder
+Sample Property 8433,2,3,2.0,5,302.23,121.39,4.07,20,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.7,60.45,https://www.airbnb.com/rooms/sample_70180,Peak
+Sample Property 4605,1,2,1.0,2,50.0,91.95,4.59,229,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.1,25.0,https://www.airbnb.com/rooms/sample_34130,Off-Peak
+Sample Property 6907,5,6,5.0,12,295.41,250.54,3.57,68,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.6,24.62,https://www.airbnb.com/rooms/sample_74535,Off-Peak
+Sample Property 9078,2,4,2.0,5,260.71,133.75,3.63,64,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.5,52.14,https://www.airbnb.com/rooms/sample_97357,Peak
+Sample Property 6089,2,4,2.0,4,209.13,117.24,4.29,115,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.3,52.28,https://www.airbnb.com/rooms/sample_1754,Shoulder
+Sample Property 8202,4,4,3.0,9,386.28,215.89,3.84,288,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.0,42.92,https://www.airbnb.com/rooms/sample_70211,Peak
+Sample Property 9722,5,7,4.0,12,220.28,246.89,3.67,145,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.2,18.36,https://www.airbnb.com/rooms/sample_63329,Off-Peak
+Sample Property 6981,2,3,1.0,4,199.64,134.97,4.07,235,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.8,49.91,https://www.airbnb.com/rooms/sample_69307,Peak
+Sample Property 2385,2,2,2.0,6,257.19,124.75,4.58,208,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",5.0,42.87,https://www.airbnb.com/rooms/sample_36304,Peak
+Sample Property 5122,3,3,3.0,6,155.76,168.7,4.11,277,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.4,25.96,https://www.airbnb.com/rooms/sample_89350,Off-Peak
+Sample Property 3940,2,2,1.0,4,115.87,138.9,3.84,60,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.0,28.97,https://www.airbnb.com/rooms/sample_31284,Off-Peak
+Sample Property 9824,2,4,1.0,4,237.93,131.7,4.88,276,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.7,59.48,https://www.airbnb.com/rooms/sample_81312,Peak
+Sample Property 5161,3,5,2.0,7,242.0,178.66,4.5,86,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.9,34.57,https://www.airbnb.com/rooms/sample_30122,Shoulder
+Sample Property 9566,3,4,3.0,6,163.59,160.46,4.67,28,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.3,27.27,https://www.airbnb.com/rooms/sample_30384,Off-Peak
+Sample Property 2059,2,4,2.0,5,127.07,132.75,3.89,232,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.0,25.41,https://www.airbnb.com/rooms/sample_32211,Off-Peak
+Sample Property 2399,3,4,3.0,8,248.28,158.79,3.71,107,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.3,31.04,https://www.airbnb.com/rooms/sample_46871,Shoulder
+Sample Property 1973,5,5,4.0,10,469.11,255.46,3.88,89,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.4,46.91,https://www.airbnb.com/rooms/sample_30106,Peak
+Sample Property 4444,3,5,2.0,8,321.42,176.29,4.26,141,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.5,40.18,https://www.airbnb.com/rooms/sample_67594,Peak
+Sample Property 6004,5,6,4.0,11,453.23,242.58,4.22,5,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.6,41.2,https://www.airbnb.com/rooms/sample_47404,Peak
+Sample Property 1999,5,5,4.0,11,225.63,240.32,3.81,261,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Tumalo State Park, Bend, OR",4.3,20.51,https://www.airbnb.com/rooms/sample_58943,Off-Peak
+Sample Property 6506,4,5,4.0,9,211.58,227.76,4.46,71,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.5,23.51,https://www.airbnb.com/rooms/sample_27893,Off-Peak
+Sample Property 5729,2,3,1.0,6,203.2,142.46,4.65,195,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.1,33.87,https://www.airbnb.com/rooms/sample_28177,Peak
+Sample Property 3446,1,1,1.0,2,152.66,102.69,4.83,266,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",5.0,76.33,https://www.airbnb.com/rooms/sample_16739,Shoulder
+Sample Property 8463,2,2,2.0,5,287.24,126.36,3.89,123,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.4,57.45,https://www.airbnb.com/rooms/sample_90505,Peak
+Sample Property 7792,2,2,2.0,5,251.92,130.02,4.64,31,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Larkspur, Bend, OR",4.6,50.38,https://www.airbnb.com/rooms/sample_4097,Peak
+Sample Property 9835,4,4,4.0,10,407.38,215.99,4.2,216,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.7,40.74,https://www.airbnb.com/rooms/sample_3213,Peak
+Sample Property 6190,4,5,4.0,8,223.57,206.29,4.39,66,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Larkspur, Bend, OR",4.6,27.95,https://www.airbnb.com/rooms/sample_94026,Off-Peak
+Sample Property 8041,5,6,4.0,12,467.57,264.59,4.11,102,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",4.9,38.96,https://www.airbnb.com/rooms/sample_16996,Peak
+Sample Property 1500,5,5,4.0,12,226.38,263.56,4.52,80,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.0,18.86,https://www.airbnb.com/rooms/sample_70727,Off-Peak
+Sample Property 3924,1,2,1.0,2,134.01,100.98,3.73,261,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.6,67.0,https://www.airbnb.com/rooms/sample_40485,Shoulder
+Sample Property 5053,5,5,4.0,12,200.55,251.23,4.4,214,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.7,16.71,https://www.airbnb.com/rooms/sample_86174,Off-Peak
+Sample Property 7617,1,2,1.0,4,194.15,80.66,3.92,62,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.2,48.54,https://www.airbnb.com/rooms/sample_98232,Peak
+Sample Property 6659,2,4,1.0,5,249.25,141.66,4.79,163,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.4,49.85,https://www.airbnb.com/rooms/sample_45178,Peak
+Sample Property 5886,1,2,1.0,3,112.71,108.57,4.86,165,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.1,37.57,https://www.airbnb.com/rooms/sample_61518,Off-Peak
+Sample Property 8008,4,4,3.0,10,203.27,191.31,4.42,185,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.6,20.33,https://www.airbnb.com/rooms/sample_24112,Off-Peak
+Sample Property 8897,4,4,4.0,10,312.44,215.09,4.21,44,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.7,31.24,https://www.airbnb.com/rooms/sample_16268,Shoulder
+Sample Property 9440,5,5,4.0,12,233.76,258.63,4.27,178,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.2,19.48,https://www.airbnb.com/rooms/sample_74452,Off-Peak
+Sample Property 9983,3,4,2.0,6,323.4,177.12,4.24,116,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.7,53.9,https://www.airbnb.com/rooms/sample_94021,Peak
+Sample Property 7342,2,4,1.0,6,115.57,130.49,3.78,34,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.4,19.26,https://www.airbnb.com/rooms/sample_9639,Off-Peak
+Sample Property 6613,4,5,4.0,8,172.11,216.3,4.51,173,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.5,21.51,https://www.airbnb.com/rooms/sample_53277,Off-Peak
+Sample Property 1863,4,4,4.0,9,178.49,205.93,4.0,36,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.9,19.83,https://www.airbnb.com/rooms/sample_21833,Off-Peak
+Sample Property 6386,1,3,1.0,2,96.1,91.63,4.44,119,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.1,48.05,https://www.airbnb.com/rooms/sample_79454,Off-Peak
+Sample Property 9552,2,3,2.0,6,181.22,134.68,3.92,203,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.5,30.2,https://www.airbnb.com/rooms/sample_60315,Shoulder
+Sample Property 8453,2,2,1.0,4,166.14,136.01,4.8,293,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.2,41.53,https://www.airbnb.com/rooms/sample_90667,Shoulder
+Sample Property 3692,3,4,2.0,6,229.01,183.6,4.2,275,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.4,38.17,https://www.airbnb.com/rooms/sample_59120,Shoulder
+Sample Property 1071,2,4,2.0,4,131.77,125.08,4.55,172,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.8,32.94,https://www.airbnb.com/rooms/sample_27202,Off-Peak
+Sample Property 7886,3,5,3.0,8,323.21,166.31,3.8,282,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.9,40.4,https://www.airbnb.com/rooms/sample_27033,Peak
+Sample Property 8248,4,6,3.0,10,189.49,209.52,4.13,207,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.5,18.95,https://www.airbnb.com/rooms/sample_7451,Off-Peak
+Sample Property 1721,4,4,4.0,9,398.54,200.84,4.96,97,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.2,44.28,https://www.airbnb.com/rooms/sample_97428,Peak
+Sample Property 4730,4,6,4.0,10,199.54,202.67,3.93,14,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.2,19.95,https://www.airbnb.com/rooms/sample_57798,Off-Peak
+Sample Property 1362,3,3,2.0,8,331.59,183.77,3.61,12,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.7,41.45,https://www.airbnb.com/rooms/sample_7751,Peak
+Sample Property 7583,2,2,2.0,4,266.54,121.65,3.6,6,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.4,66.64,https://www.airbnb.com/rooms/sample_60253,Peak
+Sample Property 2806,4,5,3.0,9,388.61,222.13,4.22,51,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.3,43.18,https://www.airbnb.com/rooms/sample_39824,Peak
+Sample Property 1559,3,3,3.0,6,329.65,193.4,4.28,247,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.4,54.94,https://www.airbnb.com/rooms/sample_66568,Peak
+Sample Property 2550,1,2,1.0,4,128.36,81.67,4.64,74,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.7,32.09,https://www.airbnb.com/rooms/sample_48167,Peak
+Sample Property 9559,2,2,2.0,5,190.95,128.17,4.28,241,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.9,38.19,https://www.airbnb.com/rooms/sample_82517,Shoulder
+Sample Property 8529,3,5,3.0,8,228.32,174.53,4.14,243,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.6,28.54,https://www.airbnb.com/rooms/sample_1943,Shoulder
+Sample Property 7268,1,2,1.0,4,92.11,91.51,3.97,160,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.7,23.03,https://www.airbnb.com/rooms/sample_20472,Off-Peak
+Sample Property 9172,5,5,4.0,11,510.57,246.82,4.12,275,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",4.6,46.42,https://www.airbnb.com/rooms/sample_88291,Peak
+Sample Property 6510,4,4,3.0,10,189.34,209.53,4.32,299,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",5.0,18.93,https://www.airbnb.com/rooms/sample_40404,Off-Peak
+Sample Property 6419,2,2,2.0,4,108.99,138.46,4.1,8,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",4.2,27.25,https://www.airbnb.com/rooms/sample_25169,Off-Peak
+Sample Property 4291,4,4,4.0,8,416.89,205.04,4.42,132,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.6,52.11,https://www.airbnb.com/rooms/sample_56625,Peak
+Sample Property 2351,2,2,2.0,5,129.84,130.9,4.14,22,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.7,25.97,https://www.airbnb.com/rooms/sample_7435,Off-Peak
+Sample Property 3318,5,7,4.0,11,461.5,248.68,4.87,279,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.3,41.95,https://www.airbnb.com/rooms/sample_97870,Peak
+Sample Property 7935,1,2,1.0,4,182.01,87.86,4.22,107,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Southwest Bend, Bend, OR",4.6,45.5,https://www.airbnb.com/rooms/sample_45105,Peak
+Sample Property 1755,1,2,1.0,4,78.23,99.23,4.81,140,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.2,19.56,https://www.airbnb.com/rooms/sample_89967,Off-Peak
+Sample Property 6283,1,2,1.0,3,112.82,92.03,4.86,97,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.0,37.61,https://www.airbnb.com/rooms/sample_69919,Shoulder
+Sample Property 2125,2,2,2.0,6,244.94,128.86,4.48,295,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",5.0,40.82,https://www.airbnb.com/rooms/sample_20129,Peak
+Sample Property 7752,2,2,1.0,5,109.73,132.16,4.33,270,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.2,21.95,https://www.airbnb.com/rooms/sample_33949,Off-Peak
+Sample Property 3792,4,5,4.0,9,294.75,218.57,4.02,14,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",5.0,32.75,https://www.airbnb.com/rooms/sample_31420,Shoulder
+Sample Property 8155,4,6,4.0,10,432.87,230.77,4.77,168,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",5.0,43.29,https://www.airbnb.com/rooms/sample_47801,Peak
+Sample Property 6162,3,5,3.0,7,260.48,182.84,4.42,168,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.2,37.21,https://www.airbnb.com/rooms/sample_2292,Shoulder
+Sample Property 8526,4,4,3.0,9,303.4,231.43,4.17,227,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.3,33.71,https://www.airbnb.com/rooms/sample_47837,Shoulder
+Sample Property 9527,4,6,4.0,10,432.75,206.67,4.46,266,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.5,43.27,https://www.airbnb.com/rooms/sample_58283,Peak
+Sample Property 8066,4,6,4.0,9,333.28,200.13,4.42,24,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.8,37.03,https://www.airbnb.com/rooms/sample_34137,Shoulder
+Sample Property 4052,2,3,1.0,5,235.03,119.04,4.29,141,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.4,47.01,https://www.airbnb.com/rooms/sample_25711,Peak
+Sample Property 5280,1,3,1.0,3,111.36,93.86,3.7,80,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",5.0,37.12,https://www.airbnb.com/rooms/sample_75923,Off-Peak
+Sample Property 4959,1,3,1.0,2,138.81,82.53,3.51,169,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.1,69.41,https://www.airbnb.com/rooms/sample_22579,Shoulder
+Sample Property 4681,4,4,3.0,8,196.87,190.69,4.39,278,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.0,24.61,https://www.airbnb.com/rooms/sample_83513,Off-Peak
+Sample Property 8230,1,3,1.0,2,186.25,98.55,3.91,280,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.4,93.12,https://www.airbnb.com/rooms/sample_19623,Peak
+Sample Property 7030,1,1,1.0,2,107.65,100.27,4.52,37,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.9,53.83,https://www.airbnb.com/rooms/sample_98316,Off-Peak
+Sample Property 1179,3,3,2.0,6,332.33,172.34,3.95,229,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",4.1,55.39,https://www.airbnb.com/rooms/sample_6585,Peak
+Sample Property 5866,5,6,4.0,12,475.72,251.88,4.49,22,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",4.4,39.64,https://www.airbnb.com/rooms/sample_63854,Peak
+Sample Property 1800,4,6,3.0,10,293.82,226.63,3.96,177,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",4.9,29.38,https://www.airbnb.com/rooms/sample_982,Shoulder
+Sample Property 3591,5,5,5.0,10,343.38,241.0,4.45,141,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.9,34.34,https://www.airbnb.com/rooms/sample_45611,Shoulder
+Sample Property 4123,4,5,3.0,9,294.25,209.84,4.29,299,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Larkspur, Bend, OR",4.8,32.69,https://www.airbnb.com/rooms/sample_1767,Shoulder
+Sample Property 9917,4,6,4.0,10,412.37,209.96,4.32,243,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Sunriver, OR",4.6,41.24,https://www.airbnb.com/rooms/sample_41458,Peak
+Sample Property 8501,1,2,1.0,2,132.06,97.54,3.54,269,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Sunriver, OR",4.1,66.03,https://www.airbnb.com/rooms/sample_34405,Shoulder
+Sample Property 9455,5,7,4.0,10,225.73,239.35,4.36,211,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.8,22.57,https://www.airbnb.com/rooms/sample_26486,Off-Peak
+Sample Property 3291,4,5,3.0,9,280.71,197.47,4.94,104,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.8,31.19,https://www.airbnb.com/rooms/sample_3393,Shoulder
+Sample Property 4657,2,2,2.0,4,138.87,131.82,4.77,262,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.2,34.72,https://www.airbnb.com/rooms/sample_78543,Off-Peak
+Sample Property 3765,2,3,2.0,5,149.89,139.28,4.17,204,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.2,29.98,https://www.airbnb.com/rooms/sample_90710,Off-Peak
+Sample Property 9102,1,3,1.0,2,140.75,99.44,4.93,280,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.4,70.38,https://www.airbnb.com/rooms/sample_48738,Shoulder
+Sample Property 9806,1,1,1.0,3,83.36,85.52,4.82,267,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.1,27.79,https://www.airbnb.com/rooms/sample_12804,Off-Peak
+Sample Property 6281,2,3,2.0,4,191.43,124.07,4.59,229,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Old Bend, Bend, OR",4.2,47.86,https://www.airbnb.com/rooms/sample_81166,Shoulder
+Sample Property 4145,1,3,1.0,3,91.05,74.27,3.9,215,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.5,30.35,https://www.airbnb.com/rooms/sample_38527,Off-Peak
+Sample Property 7066,1,3,1.0,2,103.22,102.93,4.22,138,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.4,51.61,https://www.airbnb.com/rooms/sample_84955,Shoulder
+Sample Property 5297,4,4,3.0,8,188.56,209.68,4.34,156,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",4.2,23.57,https://www.airbnb.com/rooms/sample_22254,Off-Peak
+Sample Property 2403,3,3,3.0,6,372.62,162.67,4.45,192,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.2,62.1,https://www.airbnb.com/rooms/sample_7904,Peak
+Sample Property 4371,1,2,1.0,2,155.96,81.62,3.8,94,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.3,77.98,https://www.airbnb.com/rooms/sample_91545,Shoulder
+Sample Property 4902,2,3,1.0,4,153.95,142.88,4.15,63,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.2,38.49,https://www.airbnb.com/rooms/sample_44154,Shoulder
+Sample Property 3542,4,5,4.0,8,224.37,185.06,4.98,30,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.6,28.05,https://www.airbnb.com/rooms/sample_75397,Off-Peak
+Sample Property 3164,3,4,3.0,8,149.56,174.02,3.8,275,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.4,18.7,https://www.airbnb.com/rooms/sample_25108,Off-Peak
+Sample Property 3562,2,2,1.0,5,231.63,141.79,4.94,15,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.8,46.33,https://www.airbnb.com/rooms/sample_17224,Peak
+Sample Property 6894,2,2,1.0,5,154.38,131.13,4.52,241,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Old Bend, Bend, OR",4.5,30.88,https://www.airbnb.com/rooms/sample_16773,Shoulder
+Sample Property 2301,3,3,2.0,6,295.59,174.11,4.92,16,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.4,49.26,https://www.airbnb.com/rooms/sample_58361,Peak
+Sample Property 4206,2,4,1.0,4,118.48,123.82,3.92,9,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.8,29.62,https://www.airbnb.com/rooms/sample_50659,Off-Peak
+Sample Property 7114,4,4,4.0,9,344.1,193.64,4.54,18,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.7,38.23,https://www.airbnb.com/rooms/sample_3578,Shoulder
+Sample Property 8200,5,5,4.0,11,377.96,234.21,3.95,274,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",4.5,34.36,https://www.airbnb.com/rooms/sample_87668,Shoulder
+Sample Property 4914,4,5,3.0,8,315.43,207.14,3.77,12,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.9,39.43,https://www.airbnb.com/rooms/sample_30162,Shoulder
+Sample Property 4055,3,4,2.0,8,144.52,191.49,4.63,176,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.8,18.07,https://www.airbnb.com/rooms/sample_59619,Off-Peak
+Sample Property 2281,3,3,2.0,8,241.27,169.26,4.86,219,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.6,30.16,https://www.airbnb.com/rooms/sample_34313,Shoulder
+Sample Property 5514,3,5,2.0,8,146.99,171.63,4.86,234,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.5,18.37,https://www.airbnb.com/rooms/sample_79060,Off-Peak
+Sample Property 9045,4,4,4.0,10,452.34,202.3,4.75,193,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",4.5,45.23,https://www.airbnb.com/rooms/sample_46667,Peak
+Sample Property 5562,2,3,1.0,5,108.72,119.8,3.74,95,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.7,21.74,https://www.airbnb.com/rooms/sample_35740,Off-Peak
+Sample Property 1183,2,3,1.0,4,262.58,121.44,3.56,154,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.8,65.64,https://www.airbnb.com/rooms/sample_70259,Peak
+Sample Property 1676,3,3,3.0,6,267.43,167.95,3.89,133,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.5,44.57,https://www.airbnb.com/rooms/sample_62867,Shoulder
+Sample Property 7321,3,5,2.0,8,228.55,166.89,4.09,265,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.2,28.57,https://www.airbnb.com/rooms/sample_5632,Shoulder
+Sample Property 4907,2,2,2.0,6,136.55,118.56,3.72,56,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Sunriver, OR",4.5,22.76,https://www.airbnb.com/rooms/sample_1601,Shoulder
+Sample Property 7106,3,3,2.0,7,126.14,176.38,4.95,169,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.7,18.02,https://www.airbnb.com/rooms/sample_90919,Off-Peak
+Sample Property 2500,1,1,1.0,2,66.64,86.72,4.31,260,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Old Bend, Bend, OR",4.3,33.32,https://www.airbnb.com/rooms/sample_60068,Off-Peak
+Sample Property 6861,1,3,1.0,2,173.81,91.92,4.58,270,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.0,86.91,https://www.airbnb.com/rooms/sample_50022,Peak
+Sample Property 7670,2,4,2.0,4,193.74,135.19,4.3,264,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Larkspur, Bend, OR",4.1,48.44,https://www.airbnb.com/rooms/sample_19875,Shoulder
+Sample Property 4330,5,7,4.0,10,327.31,224.6,4.34,22,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.7,32.73,https://www.airbnb.com/rooms/sample_46222,Shoulder
+Sample Property 1578,3,5,3.0,7,174.91,169.23,4.45,288,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.6,24.99,https://www.airbnb.com/rooms/sample_78861,Off-Peak
+Sample Property 2083,4,4,3.0,8,379.38,197.85,3.55,244,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.4,47.42,https://www.airbnb.com/rooms/sample_85334,Peak
+Sample Property 5353,2,4,2.0,5,105.92,132.25,3.88,89,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.1,21.18,https://www.airbnb.com/rooms/sample_37852,Off-Peak
+Sample Property 2195,1,2,1.0,3,127.71,110.25,3.52,286,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.7,42.57,https://www.airbnb.com/rooms/sample_53295,Shoulder
+Sample Property 9359,2,4,1.0,6,189.98,131.73,4.03,141,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",4.5,31.66,https://www.airbnb.com/rooms/sample_24576,Shoulder
+Sample Property 2532,2,4,2.0,6,170.83,143.52,4.4,117,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.2,28.47,https://www.airbnb.com/rooms/sample_75189,Off-Peak
+Sample Property 3493,2,4,2.0,5,152.25,138.45,3.73,131,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.3,30.45,https://www.airbnb.com/rooms/sample_42724,Off-Peak
+Sample Property 5381,5,7,5.0,11,239.08,236.5,4.64,68,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.1,21.73,https://www.airbnb.com/rooms/sample_70044,Off-Peak
+Sample Property 9367,5,6,4.0,12,347.01,248.72,4.5,222,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.1,28.92,https://www.airbnb.com/rooms/sample_51543,Shoulder
+Sample Property 5544,4,6,3.0,9,261.12,201.74,3.67,194,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",4.5,29.01,https://www.airbnb.com/rooms/sample_3334,Shoulder
+Sample Property 5133,3,4,3.0,6,232.26,177.04,4.21,189,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",5.0,38.71,https://www.airbnb.com/rooms/sample_76009,Shoulder
+Sample Property 7724,5,5,4.0,12,369.04,247.43,3.55,7,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.4,30.75,https://www.airbnb.com/rooms/sample_84815,Shoulder
+Sample Property 1038,4,6,3.0,10,212.26,213.09,3.72,121,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Tumalo State Park, Bend, OR",4.3,21.23,https://www.airbnb.com/rooms/sample_26999,Off-Peak
+Sample Property 1700,3,5,2.0,8,168.04,173.23,4.82,153,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.0,21.0,https://www.airbnb.com/rooms/sample_88628,Off-Peak
+Sample Property 3928,3,4,3.0,6,339.53,167.25,3.96,53,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Sunriver, OR",4.5,56.59,https://www.airbnb.com/rooms/sample_21696,Peak
+Sample Property 1868,4,4,3.0,8,320.64,208.76,4.2,105,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",4.7,40.08,https://www.airbnb.com/rooms/sample_18319,Shoulder
+Sample Property 4600,5,7,5.0,11,230.16,253.83,4.76,165,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.9,20.92,https://www.airbnb.com/rooms/sample_59233,Off-Peak
+Sample Property 9523,1,2,1.0,3,84.36,100.51,4.07,11,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.1,28.12,https://www.airbnb.com/rooms/sample_15116,Off-Peak
+Sample Property 5091,1,1,1.0,3,214.19,79.33,3.7,78,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.8,71.4,https://www.airbnb.com/rooms/sample_91730,Peak
+Sample Property 9432,4,6,4.0,9,282.85,213.78,4.88,49,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.4,31.43,https://www.airbnb.com/rooms/sample_19164,Shoulder
+Sample Property 8873,4,4,3.0,9,404.23,214.02,4.14,272,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.7,44.91,https://www.airbnb.com/rooms/sample_45057,Peak
+Sample Property 2995,5,5,4.0,11,349.9,249.75,3.97,252,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Southwest Bend, Bend, OR",4.1,31.81,https://www.airbnb.com/rooms/sample_96666,Shoulder
+Sample Property 9360,3,5,2.0,6,308.61,174.33,4.13,142,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.5,51.44,https://www.airbnb.com/rooms/sample_89044,Peak
+Sample Property 7042,2,3,1.0,5,217.79,132.6,4.89,267,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.3,43.56,https://www.airbnb.com/rooms/sample_44846,Peak
+Sample Property 8068,3,4,2.0,6,344.0,178.25,4.21,123,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Southwest Bend, Bend, OR",4.5,57.33,https://www.airbnb.com/rooms/sample_40769,Peak
+Sample Property 8532,2,3,2.0,6,211.85,150.68,4.13,247,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.2,35.31,https://www.airbnb.com/rooms/sample_85079,Shoulder
+Sample Property 5979,1,1,1.0,3,140.62,77.46,4.34,191,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.7,46.87,https://www.airbnb.com/rooms/sample_65553,Off-Peak
+Sample Property 1371,5,7,5.0,12,285.02,244.23,4.11,70,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Sunriver, OR",4.1,23.75,https://www.airbnb.com/rooms/sample_88079,Off-Peak
+Sample Property 4411,5,7,4.0,12,329.54,258.05,4.22,156,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.8,27.46,https://www.airbnb.com/rooms/sample_17546,Shoulder
+Sample Property 4107,1,2,1.0,4,103.94,86.52,4.82,213,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.5,25.98,https://www.airbnb.com/rooms/sample_28411,Off-Peak
+Sample Property 3882,3,5,2.0,7,260.86,163.0,4.06,163,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",4.4,37.27,https://www.airbnb.com/rooms/sample_50647,Shoulder
+Sample Property 4767,5,7,4.0,11,226.17,252.91,4.36,208,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.1,20.56,https://www.airbnb.com/rooms/sample_62176,Off-Peak
+Sample Property 4712,3,4,2.0,7,230.84,183.77,3.95,207,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",5.0,32.98,https://www.airbnb.com/rooms/sample_97912,Shoulder
+Sample Property 7995,1,1,1.0,3,201.92,91.97,3.68,110,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Southwest Bend, Bend, OR",4.1,67.31,https://www.airbnb.com/rooms/sample_74591,Peak
+Sample Property 3132,4,6,4.0,9,401.08,209.89,4.71,198,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.8,44.56,https://www.airbnb.com/rooms/sample_30499,Peak
+Sample Property 7212,2,2,2.0,5,129.16,130.34,4.46,51,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.5,25.83,https://www.airbnb.com/rooms/sample_5544,Off-Peak
+Sample Property 6360,5,5,5.0,11,511.72,257.05,4.55,182,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.9,46.52,https://www.airbnb.com/rooms/sample_14498,Peak
+Sample Property 7229,3,3,2.0,8,314.63,172.49,4.68,117,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",4.3,39.33,https://www.airbnb.com/rooms/sample_31140,Peak
+Sample Property 5507,2,4,1.0,4,166.83,112.4,4.13,17,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.7,41.71,https://www.airbnb.com/rooms/sample_3774,Shoulder
+Sample Property 6866,5,5,4.0,10,470.38,263.24,4.83,73,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.4,47.04,https://www.airbnb.com/rooms/sample_98418,Peak
+Sample Property 5318,3,3,2.0,8,314.95,178.87,3.75,154,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.9,39.37,https://www.airbnb.com/rooms/sample_65429,Peak
+Sample Property 7563,4,6,3.0,8,388.62,208.38,4.75,130,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.1,48.58,https://www.airbnb.com/rooms/sample_4353,Peak
+Sample Property 8804,1,1,1.0,3,52.75,100.8,3.75,8,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.8,17.58,https://www.airbnb.com/rooms/sample_82278,Off-Peak
+Sample Property 3379,2,2,2.0,6,140.73,113.29,4.8,19,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.5,23.45,https://www.airbnb.com/rooms/sample_87188,Off-Peak
+Sample Property 2622,3,5,2.0,6,212.91,169.89,3.72,97,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Larkspur, Bend, OR",4.1,35.48,https://www.airbnb.com/rooms/sample_58466,Shoulder
+Sample Property 9758,2,4,2.0,5,186.3,116.85,3.7,116,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Sunriver, OR",4.1,37.26,https://www.airbnb.com/rooms/sample_19645,Shoulder
+Sample Property 5257,4,6,3.0,9,199.9,222.75,4.25,180,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.8,22.21,https://www.airbnb.com/rooms/sample_32077,Off-Peak
+Sample Property 6952,2,2,2.0,4,181.97,111.33,3.97,256,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.1,45.49,https://www.airbnb.com/rooms/sample_44519,Shoulder
+Sample Property 9366,1,1,1.0,2,183.95,64.78,4.86,278,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.2,91.97,https://www.airbnb.com/rooms/sample_65383,Peak
+Sample Property 4956,1,3,1.0,3,119.8,82.9,4.79,22,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.7,39.93,https://www.airbnb.com/rooms/sample_69212,Shoulder
+Sample Property 6475,4,4,4.0,8,231.98,214.89,4.99,70,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Larkspur, Bend, OR",4.8,29.0,https://www.airbnb.com/rooms/sample_82026,Off-Peak
+Sample Property 5355,2,3,2.0,4,148.42,117.76,4.37,28,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.7,37.1,https://www.airbnb.com/rooms/sample_8262,Off-Peak
+Sample Property 7356,3,5,3.0,7,309.46,176.07,4.66,99,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.4,44.21,https://www.airbnb.com/rooms/sample_49335,Shoulder
+Sample Property 5822,5,5,5.0,12,384.98,246.61,4.18,105,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Sunriver, OR",4.9,32.08,https://www.airbnb.com/rooms/sample_61249,Shoulder
+Sample Property 5670,2,2,2.0,5,148.61,104.4,3.59,83,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Old Bend, Bend, OR",5.0,29.72,https://www.airbnb.com/rooms/sample_18911,Off-Peak
+Sample Property 5042,5,6,4.0,12,497.84,229.95,4.69,88,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.8,41.49,https://www.airbnb.com/rooms/sample_68749,Peak
+Sample Property 5016,1,3,1.0,4,111.22,99.88,4.0,280,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.9,27.8,https://www.airbnb.com/rooms/sample_25728,Off-Peak
+Sample Property 3568,1,2,1.0,3,159.33,89.22,3.67,288,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Old Bend, Bend, OR",4.4,53.11,https://www.airbnb.com/rooms/sample_94037,Peak
+Sample Property 7659,3,3,3.0,6,332.45,168.22,4.34,262,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Old Bend, Bend, OR",5.0,55.41,https://www.airbnb.com/rooms/sample_86797,Peak
+Sample Property 4044,5,6,5.0,12,372.61,265.14,3.65,203,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Summit West, Bend, OR",4.9,31.05,https://www.airbnb.com/rooms/sample_99390,Shoulder
+Sample Property 9125,2,3,1.0,6,236.76,133.58,4.97,48,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",4.7,39.46,https://www.airbnb.com/rooms/sample_53969,Peak
+Sample Property 4865,5,6,5.0,10,233.11,248.26,3.64,287,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",4.8,23.31,https://www.airbnb.com/rooms/sample_8084,Off-Peak
+Sample Property 4746,1,3,1.0,3,189.42,81.2,4.77,2,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Larkspur, Bend, OR",5.0,63.14,https://www.airbnb.com/rooms/sample_79200,Peak
+Sample Property 2236,2,4,2.0,4,212.6,131.97,4.18,107,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Summit West, Bend, OR",4.8,53.15,https://www.airbnb.com/rooms/sample_68465,Shoulder
+Sample Property 9389,2,3,2.0,6,197.29,128.91,3.54,83,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.1,32.88,https://www.airbnb.com/rooms/sample_94280,Shoulder
+Sample Property 3954,4,6,3.0,9,358.29,216.31,3.73,12,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.9,39.81,https://www.airbnb.com/rooms/sample_86937,Peak
+Sample Property 7311,4,5,3.0,10,381.17,212.34,4.89,238,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Summit West, Bend, OR",4.8,38.12,https://www.airbnb.com/rooms/sample_19862,Peak
+Sample Property 5268,2,3,1.0,4,159.24,121.72,3.76,293,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",5.0,39.81,https://www.airbnb.com/rooms/sample_38091,Shoulder
+Sample Property 7304,3,4,2.0,7,211.22,178.42,4.01,14,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.2,30.17,https://www.airbnb.com/rooms/sample_75843,Shoulder
+Sample Property 4999,2,4,1.0,4,206.91,126.45,4.6,258,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Southwest Bend, Bend, OR",4.5,51.73,https://www.airbnb.com/rooms/sample_25278,Shoulder
+Sample Property 1677,2,2,1.0,6,144.62,125.13,4.36,72,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.7,24.1,https://www.airbnb.com/rooms/sample_32978,Shoulder
+Sample Property 2853,1,2,1.0,2,109.59,87.5,4.32,39,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.1,54.8,https://www.airbnb.com/rooms/sample_39858,Off-Peak
+Sample Property 3021,2,4,2.0,6,228.04,126.16,3.87,233,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.2,38.01,https://www.airbnb.com/rooms/sample_92555,Peak
+Sample Property 7734,2,2,1.0,5,226.57,120.35,4.77,291,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Southwest Bend, Bend, OR",5.0,45.31,https://www.airbnb.com/rooms/sample_93750,Peak
+Sample Property 2607,4,6,3.0,10,375.8,197.89,4.7,122,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.6,37.58,https://www.airbnb.com/rooms/sample_11155,Peak
+Sample Property 7723,2,4,1.0,5,202.7,133.66,3.98,65,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Summit West, Bend, OR",4.2,40.54,https://www.airbnb.com/rooms/sample_93340,Peak
+Sample Property 2617,2,2,2.0,5,269.4,131.03,4.66,130,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Summit West, Bend, OR",4.8,53.88,https://www.airbnb.com/rooms/sample_70816,Peak
+Sample Property 7337,1,1,1.0,4,123.26,96.25,3.62,241,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Southwest Bend, Bend, OR",4.9,30.82,https://www.airbnb.com/rooms/sample_1294,Shoulder
+Sample Property 1037,4,5,4.0,8,385.68,205.9,3.61,47,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.4,48.21,https://www.airbnb.com/rooms/sample_81114,Peak
+Sample Property 4120,1,3,1.0,2,50.0,102.69,4.73,128,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Seventh Mountain, Bend, OR",4.1,25.0,https://www.airbnb.com/rooms/sample_61573,Off-Peak
+Sample Property 8914,1,2,1.0,2,196.16,89.61,3.97,236,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Seventh Mountain, Bend, OR",4.1,98.08,https://www.airbnb.com/rooms/sample_83191,Peak
+Sample Property 7658,5,5,4.0,12,473.7,274.02,4.28,55,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",4.0,39.48,https://www.airbnb.com/rooms/sample_71642,Peak
+Sample Property 3415,1,2,1.0,3,164.94,89.22,4.0,295,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",4.6,54.98,https://www.airbnb.com/rooms/sample_63961,Shoulder
+Sample Property 2315,3,3,2.0,6,226.59,177.08,3.65,15,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.1,37.77,https://www.airbnb.com/rooms/sample_6968,Shoulder
+Sample Property 5710,1,3,1.0,2,157.47,96.77,4.06,157,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.5,78.73,https://www.airbnb.com/rooms/sample_15065,Shoulder
+Sample Property 8177,4,4,4.0,10,318.74,207.29,4.04,277,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.9,31.87,https://www.airbnb.com/rooms/sample_63220,Shoulder
+Sample Property 3774,3,4,2.0,7,265.51,179.76,4.47,142,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Old Bend, Bend, OR",4.3,37.93,https://www.airbnb.com/rooms/sample_22788,Shoulder
+Sample Property 9825,2,3,2.0,5,129.35,127.81,4.44,95,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.7,25.87,https://www.airbnb.com/rooms/sample_53107,Off-Peak
+Sample Property 7571,3,3,2.0,8,227.06,151.74,3.91,83,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Seventh Mountain, Bend, OR",4.7,28.38,https://www.airbnb.com/rooms/sample_3450,Shoulder
+Sample Property 2558,2,4,1.0,5,94.06,136.78,3.78,4,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Seventh Mountain, Bend, OR",5.0,18.81,https://www.airbnb.com/rooms/sample_15765,Off-Peak
+Sample Property 6852,2,3,1.0,6,149.2,136.67,4.42,51,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Larkspur, Bend, OR",4.2,24.87,https://www.airbnb.com/rooms/sample_48243,Off-Peak
+Sample Property 2984,4,4,4.0,10,334.5,205.77,4.49,58,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Sunriver, OR",4.8,33.45,https://www.airbnb.com/rooms/sample_99273,Shoulder
+Sample Property 9734,2,4,2.0,4,141.87,130.61,3.82,287,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.8,35.47,https://www.airbnb.com/rooms/sample_80489,Off-Peak
+Sample Property 2242,4,6,4.0,10,393.18,201.13,3.58,189,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Sunriver, OR",4.6,39.32,https://www.airbnb.com/rooms/sample_61935,Peak
+Sample Property 1539,2,3,2.0,6,101.5,127.88,4.82,64,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Seventh Mountain, Bend, OR",4.7,16.92,https://www.airbnb.com/rooms/sample_15785,Off-Peak
+Sample Property 6666,5,7,4.0,10,357.86,233.2,4.46,241,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.2,35.79,https://www.airbnb.com/rooms/sample_11845,Shoulder
+Sample Property 1062,3,5,3.0,6,249.63,173.57,4.1,298,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Larkspur, Bend, OR",4.7,41.6,https://www.airbnb.com/rooms/sample_91193,Shoulder
+Sample Property 8648,5,5,5.0,10,341.97,270.2,4.28,125,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.1,34.2,https://www.airbnb.com/rooms/sample_72437,Shoulder
+Sample Property 8115,2,2,2.0,6,108.48,121.01,4.42,278,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.0,18.08,https://www.airbnb.com/rooms/sample_81665,Off-Peak
+Sample Property 2643,4,4,4.0,9,206.79,224.54,4.73,95,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.5,22.98,https://www.airbnb.com/rooms/sample_9458,Off-Peak
+Sample Property 4403,3,3,3.0,8,234.62,161.85,4.41,152,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.9,29.33,https://www.airbnb.com/rooms/sample_91780,Shoulder
+Sample Property 9593,1,1,1.0,4,125.39,102.67,3.83,291,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.1,31.35,https://www.airbnb.com/rooms/sample_52665,Shoulder
+Sample Property 2299,5,5,4.0,12,217.85,246.15,4.99,152,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Larkspur, Bend, OR",4.7,18.15,https://www.airbnb.com/rooms/sample_24510,Off-Peak
+Sample Property 3482,4,4,4.0,9,311.47,194.73,4.1,157,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.4,34.61,https://www.airbnb.com/rooms/sample_30347,Shoulder
+Sample Property 2004,5,6,5.0,12,477.81,267.13,4.39,286,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.2,39.82,https://www.airbnb.com/rooms/sample_52777,Peak
+Sample Property 4756,5,6,5.0,11,503.33,236.22,3.88,83,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.6,45.76,https://www.airbnb.com/rooms/sample_65404,Peak
+Sample Property 2979,2,2,2.0,4,252.21,129.76,3.7,114,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Tumalo State Park, Bend, OR",4.5,63.05,https://www.airbnb.com/rooms/sample_49547,Peak
+Sample Property 7230,5,5,5.0,12,237.35,263.77,4.52,155,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Summit West, Bend, OR",4.3,19.78,https://www.airbnb.com/rooms/sample_53617,Off-Peak
+Sample Property 2178,1,3,1.0,4,174.68,89.11,4.36,153,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.4,43.67,https://www.airbnb.com/rooms/sample_38624,Peak
+Sample Property 3217,4,5,4.0,10,222.57,213.57,4.09,153,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Tumalo State Park, Bend, OR",4.3,22.26,https://www.airbnb.com/rooms/sample_94182,Off-Peak
+Sample Property 3056,4,4,3.0,10,176.02,207.08,4.18,144,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Summit West, Bend, OR",4.2,17.6,https://www.airbnb.com/rooms/sample_78979,Off-Peak
+Sample Property 9089,1,2,1.0,2,207.54,97.63,4.35,183,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Seventh Mountain, Bend, OR",4.2,103.77,https://www.airbnb.com/rooms/sample_85142,Peak
+Sample Property 8564,1,1,1.0,2,125.27,89.9,3.92,298,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Seventh Mountain, Bend, OR",4.7,62.63,https://www.airbnb.com/rooms/sample_77016,Shoulder
+Sample Property 7669,5,5,5.0,11,235.19,245.07,4.02,276,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.7,21.38,https://www.airbnb.com/rooms/sample_98280,Off-Peak
+Sample Property 9172,2,2,2.0,4,198.72,131.88,4.26,238,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Old Bend, Bend, OR",4.6,49.68,https://www.airbnb.com/rooms/sample_67976,Shoulder
+Sample Property 2897,5,7,5.0,11,259.92,256.44,4.23,30,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Larkspur, Bend, OR",4.1,23.63,https://www.airbnb.com/rooms/sample_55038,Off-Peak
+Sample Property 3607,2,4,1.0,5,246.49,120.84,4.16,133,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Tumalo State Park, Bend, OR",4.2,49.3,https://www.airbnb.com/rooms/sample_75886,Peak
+Sample Property 8101,4,6,3.0,9,376.05,213.58,3.71,71,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.5,41.78,https://www.airbnb.com/rooms/sample_34891,Peak
+Sample Property 5671,2,2,1.0,5,169.64,131.69,3.74,141,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Sunriver, OR",4.1,33.93,https://www.airbnb.com/rooms/sample_86779,Shoulder
+Sample Property 4563,3,3,3.0,8,317.1,173.95,4.86,30,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.8,39.64,https://www.airbnb.com/rooms/sample_24508,Peak
+Sample Property 2345,2,3,1.0,6,150.41,134.34,4.2,14,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Summit West, Bend, OR",4.7,25.07,https://www.airbnb.com/rooms/sample_61272,Shoulder
+Sample Property 8110,5,5,4.0,10,228.09,247.87,3.76,94,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Old Bend, Bend, OR",4.8,22.81,https://www.airbnb.com/rooms/sample_51525,Off-Peak
+Sample Property 6027,5,5,5.0,11,486.86,239.22,4.43,220,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Sunriver, OR",4.3,44.26,https://www.airbnb.com/rooms/sample_83795,Peak
+Sample Property 6404,4,4,4.0,8,216.57,222.25,4.73,245,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Southwest Bend, Bend, OR",4.1,27.07,https://www.airbnb.com/rooms/sample_89334,Off-Peak
+Sample Property 5731,5,7,4.0,10,469.38,253.34,4.28,48,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Tumalo State Park, Bend, OR",4.5,46.94,https://www.airbnb.com/rooms/sample_35789,Peak
+Sample Property 9167,3,4,3.0,6,241.07,188.64,4.21,100,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Summit West, Bend, OR",4.2,40.18,https://www.airbnb.com/rooms/sample_94331,Shoulder
+Sample Property 3339,3,4,3.0,6,249.41,168.73,3.77,206,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Sunriver, OR",4.4,41.57,https://www.airbnb.com/rooms/sample_51424,Shoulder
+Sample Property 6270,1,2,1.0,2,72.89,87.26,4.92,117,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Southwest Bend, Bend, OR",4.6,36.45,https://www.airbnb.com/rooms/sample_79004,Off-Peak
+Sample Property 7728,3,4,2.0,8,323.85,165.52,4.96,178,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Summit West, Bend, OR",4.9,40.48,https://www.airbnb.com/rooms/sample_27445,Peak
+Sample Property 9766,2,3,2.0,6,196.54,140.56,4.01,270,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.7,32.76,https://www.airbnb.com/rooms/sample_76694,Shoulder
+Sample Property 9468,5,5,5.0,11,405.39,251.17,4.59,20,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Summit West, Bend, OR",4.7,36.85,https://www.airbnb.com/rooms/sample_83041,Shoulder
+Sample Property 5750,1,2,1.0,4,210.18,101.18,3.95,3,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire home,"Southwest Bend, Bend, OR",4.8,52.55,https://www.airbnb.com/rooms/sample_10953,Peak
+Sample Property 1018,2,2,1.0,6,234.83,128.99,3.65,229,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.4,39.14,https://www.airbnb.com/rooms/sample_84545,Peak
+Sample Property 7345,4,6,4.0,9,427.44,206.87,4.77,299,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Tumalo State Park, Bend, OR",4.8,47.49,https://www.airbnb.com/rooms/sample_25288,Peak
+Sample Property 8386,4,4,3.0,8,179.62,217.95,4.08,146,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Sunriver, OR",4.9,22.45,https://www.airbnb.com/rooms/sample_92662,Off-Peak
+Sample Property 7995,5,6,5.0,11,346.08,266.44,3.69,23,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Seventh Mountain, Bend, OR",4.3,31.46,https://www.airbnb.com/rooms/sample_96064,Shoulder
+Sample Property 9677,4,5,3.0,10,196.02,202.62,3.92,46,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire cabin,"Tumalo State Park, Bend, OR",4.3,19.6,https://www.airbnb.com/rooms/sample_98355,Off-Peak
+Sample Property 3155,5,6,4.0,10,344.6,250.87,3.94,250,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Tumalo State Park, Bend, OR",4.9,34.46,https://www.airbnb.com/rooms/sample_86118,Shoulder
+Sample Property 4262,1,3,1.0,2,71.75,93.7,4.6,110,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Tumalo State Park, Bend, OR",4.8,35.88,https://www.airbnb.com/rooms/sample_37084,Off-Peak
+Sample Property 1797,5,5,4.0,11,459.95,251.49,4.88,210,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.9,41.81,https://www.airbnb.com/rooms/sample_52495,Peak
+Sample Property 3045,4,5,4.0,8,315.81,218.95,3.67,32,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Southwest Bend, Bend, OR",4.7,39.48,https://www.airbnb.com/rooms/sample_17668,Shoulder
+Sample Property 6495,4,4,3.0,8,206.75,215.46,3.52,277,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Southwest Bend, Bend, OR",4.2,25.84,https://www.airbnb.com/rooms/sample_16776,Off-Peak
+Sample Property 9277,1,3,1.0,2,110.04,94.01,4.12,191,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Summit West, Bend, OR",4.7,55.02,https://www.airbnb.com/rooms/sample_96103,Off-Peak
+Sample Property 9000,4,5,4.0,9,199.08,204.8,4.52,128,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Summit West, Bend, OR",4.3,22.12,https://www.airbnb.com/rooms/sample_73159,Off-Peak
+Sample Property 3134,1,3,1.0,2,111.73,94.46,4.31,264,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Larkspur, Bend, OR",4.9,55.87,https://www.airbnb.com/rooms/sample_17537,Off-Peak
+Sample Property 3938,1,2,1.0,3,176.91,97.14,3.99,25,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire cabin,"Seventh Mountain, Bend, OR",4.0,58.97,https://www.airbnb.com/rooms/sample_94500,Peak
+Sample Property 1027,5,5,4.0,11,494.45,233.31,4.26,240,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",5.0,44.95,https://www.airbnb.com/rooms/sample_3871,Peak
+Sample Property 5443,2,3,1.0,6,157.0,124.67,4.82,175,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.1,26.17,https://www.airbnb.com/rooms/sample_84860,Shoulder
+Sample Property 2212,1,3,1.0,3,185.66,93.31,5.0,167,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.4,61.89,https://www.airbnb.com/rooms/sample_11970,Peak
+Sample Property 3866,4,5,4.0,10,393.78,225.69,4.95,76,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Room,"Old Bend, Bend, OR",4.3,39.38,https://www.airbnb.com/rooms/sample_4334,Peak
+Sample Property 3894,1,2,1.0,2,82.78,91.22,4.33,230,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Seventh Mountain, Bend, OR",4.4,41.39,https://www.airbnb.com/rooms/sample_71820,Off-Peak
+Sample Property 2781,5,6,4.0,11,270.36,239.88,4.52,106,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Seventh Mountain, Bend, OR",4.3,24.58,https://www.airbnb.com/rooms/sample_67783,Off-Peak
+Sample Property 9791,3,5,2.0,7,185.26,177.76,3.89,171,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.1,26.47,https://www.airbnb.com/rooms/sample_66779,Off-Peak
+Sample Property 3743,2,3,1.0,5,174.87,118.68,4.64,50,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Room,"Larkspur, Bend, OR",4.5,34.97,https://www.airbnb.com/rooms/sample_16058,Shoulder
+Sample Property 8319,2,3,2.0,5,154.96,118.31,4.69,156,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire townhouse,"Seventh Mountain, Bend, OR",4.4,30.99,https://www.airbnb.com/rooms/sample_59205,Shoulder
+Sample Property 2244,4,5,3.0,9,388.73,209.21,3.6,176,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire townhouse,"Seventh Mountain, Bend, OR",4.3,43.19,https://www.airbnb.com/rooms/sample_89894,Peak
+Sample Property 1292,4,4,3.0,8,249.27,211.14,4.03,112,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire home,"Old Bend, Bend, OR",4.5,31.16,https://www.airbnb.com/rooms/sample_48111,Shoulder
+Sample Property 8048,3,4,2.0,8,163.53,178.66,3.78,267,0,"WiFi, Parking, TV, Kitchen, Washer, Dryer",1,Entire condo,"Southwest Bend, Bend, OR",4.2,20.44,https://www.airbnb.com/rooms/sample_33747,Off-Peak
+Sample Property 4266,2,4,2.0,4,100.16,122.49,3.88,150,1,"WiFi, Parking, TV, Kitchen, Washer, Dryer",0,Entire condo,"Sunriver, OR",4.1,25.04,https://www.airbnb.com/rooms/sample_2590,Off-Peak

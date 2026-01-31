@@ -1,0 +1,14 @@
+
+# Data Folders
+data/
+logs/
+models/
+
+# Specific Scripts
+src/scraper_script_airbnb.py
+
+# System
+.DS_Store
+__pycache__/
+*.pkl
+.ipynb_checkpoints/
